@@ -22,6 +22,7 @@ Always online CTFs
   * [Damn Vulnerable DeFi — Challenge #4 Walkthrough by iphelix](https://iphelix.medium.com/damn-vulnerable-defi-challenge-4-walkthrough-881f7f12f118)
   * [Damn Vulnerable DeFi — Challenge #5 Walkthrough by iphelix](https://iphelix.medium.com/damn-vulnerable-defi-challenge-5-walkthrough-2dd516735ad6)
   * [Damn Vulnerable DeFi — Challenge #6 Walkthrough by iphelix](https://iphelix.medium.com/damn-vulnerable-defi-challenge-6-walkthrough-63c7584e5240)
+  * [Damn Vulnerable DeFi — Challenge #7 Walkthrough by iphelix](https://iphelix.medium.com/damn-vulnerable-defi-challenge-7-walkthrough-ee9fac3fdcd4)
   
 * Ethernaut
   * [Ethernaut Solutions by cmichel](https://cmichel.io/ethernaut-solutions/) - Challenges 0-21
@@ -30,7 +31,6 @@ Always online CTFs
   * [Ethernaut Solutions by tinchoabbate](https://www.notonlyowner.com/)
   * [The Ethernaut CTF Writeup by Arseny Reutov](https://blog.positive.com/the-ethernaut-ctf-writeup-dc3021824abc) - Challenges 0-6
   * [Ethernaut Lvl 1 Walkthrough: how to abuse the Fallback function by Nicole Zhu](https://hackernoon.com/ethernaut-lvl-1-walkthrough-how-to-abuse-the-fallback-function-118057b68b56)
-  
   
 * Capture the Ether
   * [Capture the Ether Solutions by cmichel](https://cmichel.io/capture-the-ether-solutions/)
@@ -58,3 +58,9 @@ Always online CTFs
   * [Capture the Coin — Trivia Solutions](https://blog.coinbase.com/capture-the-coin-trivia-solutions-98fd99aadb75)
   * [Capture the Coin — Blockchain Category Solutions](https://blog.coinbase.com/capture-the-coin-blockchain-category-solutions-9aef880d7e00)
   * [Capture the Coin — Cryptography Category Solutions](https://blog.coinbase.com/capture-the-coin-cryptography-category-solutions-fe94d82165c5)
+  
+* Authio Solidity CTF - 2018
+  * [Solidity CTF — Part 2: “Safe Execution”](https://medium.com/authio/solidity-ctf-part-2-safe-execution-ad6ded20e042)by Alexander Wade
+  * [Solidity CTF — Part 3: “HoneyPot”](https://medium.com/authio/solidity-ctf-part-3-honeypot-8a8b6fecc6a2) by Alexander Wade
+  * [Solidity CTF — Part 4: Read the Fine Print](https://medium.com/authio/solidity-ctf-part-4-read-the-fine-print-5ad259a5f5bb) by Alex Towle
+  * [Solidity CTF: Mirror Madness](https://medium.com/authio/ctf-duplication-dd32cd4ef690) by Paul Vienhage
