@@ -10,6 +10,14 @@ A curated list of blockchain security Capture the Flag (CTF) competitions
 * [Security Innovation Blockchain CTF](https://blockchain-ctf.securityinnovation.com/)
 * [Damn Vulnerable Crypto Wallet](https://gitlab.com/badbounty/dvcw)
 * [NCCGroup GOAT Casino](https://github.com/nccgroup/GOATCasino)
+* Authio Solidity CTF:
+  * [Part 1 - Function Types](https://ropsten.etherscan.io/address/0x727c1c8d4b190d208f3701f106f7301cb1a32f27#code)
+  * [Part 2 - Safe Execution](https://ropsten.etherscan.io/address/0x023916f968af3fbb21ac10abbe18448c79d609c2#code)
+  * [Part 3 - HoneyPot](https://ropsten.etherscan.io/address/0xdc65b61be773f8be72ded22ac008ad5add045e3c#code)
+  * [Part 4 - Read the Fine Print](https://ropsten.etherscan.io/address/0x1b359afb0bd86a6c435d178b1fbf8a6fda3ead7d#code)
+  * [Part 5 - Mirror Madness](https://etherscan.io/address/0x7cd03C9f1D2dc95358B1992e9afc857aeaab45D5)
+* [Cryptohunt by p4d](https://github.com/PumpkingWok/CTFGym/tree/master/contracts/ctf-mainnet)
+* [Impossible by u/eththrowaway4](https://ropsten.etherscan.io/address/0x0daabce0a1261b582e0d949ebca9dff4c22c88ef#code)
 
 ## CTF Announcements and Writeups
 
@@ -61,8 +69,12 @@ A curated list of blockchain security Capture the Flag (CTF) competitions
   * [Capture the Coin — Blockchain Category Solutions](https://blog.coinbase.com/capture-the-coin-blockchain-category-solutions-9aef880d7e00)
   * [Capture the Coin — Cryptography Category Solutions](https://blog.coinbase.com/capture-the-coin-cryptography-category-solutions-fe94d82165c5)
   
+* [ConsenSys Dilligence Ethereum Hacking Challenge](https://medium.com/consensys-diligence/consensys-diligence-ether-giveaway-1-4985627b7726) - 2018
+  * [Consensys CTF Writeup by samczsun](https://samczsun.com/consensys-ctf-writeup/)
+  
 * Authio Solidity CTF - 2018
+  * [Solidity CTF - Part 1: "Function Types](https://www.reddit.com/r/ethdev/comments/8td9xn/challenge_empty_the_contract_of_funds/)
   * [Solidity CTF — Part 2: “Safe Execution”](https://medium.com/authio/solidity-ctf-part-2-safe-execution-ad6ded20e042)by Alexander Wade
   * [Solidity CTF — Part 3: “HoneyPot”](https://medium.com/authio/solidity-ctf-part-3-honeypot-8a8b6fecc6a2) by Alexander Wade
   * [Solidity CTF — Part 4: Read the Fine Print](https://medium.com/authio/solidity-ctf-part-4-read-the-fine-print-5ad259a5f5bb) by Alex Towle
-  * [Solidity CTF: Mirror Madness](https://medium.com/authio/ctf-duplication-dd32cd4ef690) by Paul Vienhage
+  * [Solidity CTF - Part 5: Mirror Madness](https://medium.com/authio/ctf-duplication-dd32cd4ef690) by Paul Vienhage
