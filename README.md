@@ -72,6 +72,9 @@ A curated list of blockchain security Capture the Flag (CTF) competitions
 * [ConsenSys Dilligence Ethereum Hacking Challenge](https://medium.com/consensys-diligence/consensys-diligence-ether-giveaway-1-4985627b7726) - 2018
   * [Consensys CTF Writeup by samczsun](https://samczsun.com/consensys-ctf-writeup/)
   
+* [EtherHack](https://etherhack.positive.com/) - 2018
+  * [EtherHack Contest Writeup](https://blog.positive.com/phdays-8-etherhack-contest-writeup-794523f01248)
+  
 * Authio Solidity CTF - 2018
   * [Solidity CTF - Part 1: "Function Types](https://www.reddit.com/r/ethdev/comments/8td9xn/challenge_empty_the_contract_of_funds/)
   * [Solidity CTF — Part 2: “Safe Execution”](https://medium.com/authio/solidity-ctf-part-2-safe-execution-ad6ded20e042)by Alexander Wade
