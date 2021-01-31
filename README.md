@@ -8,6 +8,7 @@ A curated list of blockchain security Capture the Flag (CTF) competitions
 * [Capture the Ether](https://capturetheether.com/)
 * [EtherHack](https://etherhack.positive.com/)
 * [Security Innovation Blockchain CTF](https://blockchain-ctf.securityinnovation.com/)
+* [HACON2020 CTF by RazzorSec](https://github.com/razzorsec/Blockchain-HACON2020)
 * [Damn Vulnerable Crypto Wallet](https://gitlab.com/badbounty/dvcw)
 * [NCCGroup GOAT Casino](https://github.com/nccgroup/GOATCasino)
 * Authio Solidity CTF:
