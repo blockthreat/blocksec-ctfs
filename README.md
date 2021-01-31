@@ -64,3 +64,6 @@ Always online CTFs
   * [Solidity CTF — Part 3: “HoneyPot”](https://medium.com/authio/solidity-ctf-part-3-honeypot-8a8b6fecc6a2) by Alexander Wade
   * [Solidity CTF — Part 4: Read the Fine Print](https://medium.com/authio/solidity-ctf-part-4-read-the-fine-print-5ad259a5f5bb) by Alex Towle
   * [Solidity CTF: Mirror Madness](https://medium.com/authio/ctf-duplication-dd32cd4ef690) by Paul Vienhage
+  
+  
+* [NCCGroup GOAT Casino](https://github.com/nccgroup/GOATCasino) - 2018
