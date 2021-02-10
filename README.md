@@ -23,6 +23,11 @@ A curated list of blockchain security Capture the Flag (CTF) competitions
 ## CTF Announcements and Writeups
 
 * [Paradigm CTF](https://ctf.paradigm.xyz/) - 2021
+  * [Paradigm CTF 2021 Solutions](https://cmichel.io/paradigm-ctf-2021-solutions/) and [Github repo](https://github.com/MrToph/paradigm-ctf) by cmichel
+  * [BabyRev and Upgrade Solutions](https://hackmd.io/@adietrichs/paradigm-ctf-2021) by Ansgar Dietrichs
+  * Paradigm JOP Solution on Twitch [Part 1](https://www.twitch.tv/videos/906353891) and [Part 2](https://www.twitch.tv/videos/907645638) by Ansgar Dietrichs
+  * [Paradigm CTF 2021 Solutions](https://github.com/thegostep/paradigm-ctf) by thegostep
+  * [BabyCrypto, BabySandbox, and Lockbox writeups](https://gist.github.com/roynalnaruto/3687e0ab19c22ecbc32f0dcff5790198) by roynalnaruto
 
 * [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz/) - 2020
   * [Damn Vulnerable DeFi Solutions by cmichel](https://cmichel.io/damn-vulnerable-de-fi-solutions/)
