@@ -28,6 +28,8 @@ A curated list of blockchain security Capture the Flag (CTF) competitions
   * Paradigm JOP Solution on Twitch [Part 1](https://www.twitch.tv/videos/906353891) and [Part 2](https://www.twitch.tv/videos/907645638) by Ansgar Dietrichs
   * [Paradigm CTF 2021 Solutions](https://github.com/thegostep/paradigm-ctf) by thegostep
   * [BabyCrypto, BabySandbox, and Lockbox writeups](https://gist.github.com/roynalnaruto/3687e0ab19c22ecbc32f0dcff5790198) by roynalnaruto
+  * [BabyCrypto Challenge](https://binarycake.ca/posts/paradigm-ctf/) by Team Dilicious
+  * [Broker Challenge](https://binarycake.ca/posts/paradigm-ctf-broker/) by Team Dilicious
 
 * [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz/) - 2020
   * [Damn Vulnerable DeFi Solutions by cmichel](https://cmichel.io/damn-vulnerable-de-fi-solutions/)
