@@ -33,6 +33,7 @@ A curated list of blockchain security Capture the Flag (CTF) competitions
   * [BabyRev Challenge](https://binarycake.ca/posts/paradigm-ctf-babyrev/index.html) by Team Dilicious (Sam Wilson)
   * [Bank Challenge](https://smarx.com/posts/2021/02/writeup-of-paradigm-ctf-bank/) by Team Dilicious (smarx)
   * [Vault Challenge](https://smarx.com/posts/2021/02/writeup-of-paradigm-ctf-vault/) by Team Dilicious (smarx)
+  * [Paradigm CTF Solutions](https://medium.com/furucombo/sharing-some-paradigm-ctf-solutions-befac01800e3) by Furucombo
 
 * [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz/) - 2020
   * [Damn Vulnerable DeFi Solutions by cmichel](https://cmichel.io/damn-vulnerable-de-fi-solutions/)
