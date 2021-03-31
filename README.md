@@ -1,26 +1,47 @@
 # Awesome Blocksec CTFs
-A curated list of blockchain security Capture the Flag (CTF) competitions
+A curated list of blockchain security Wargames, Challenges, and Capture the Flag (CTF) competitions and solution writeups.
 
-## Online and self-hosted CTFs
+## Wargames, Challenges and their Writeups
+
+* [Ethernaut](https://ethernaut.openzeppelin.com/)
+  * [Ethernaut Solutions by cmichel](https://cmichel.io/ethernaut-solutions/) - Challenges 0-21
+  * [Ethernaut Writeups by Macmod](https://github.com/Macmod/ethernaut-writeups) - Challenges 0-9
+  * [Ethernaut Solutions by tsauvajon](https://github.com/tsauvajon/ethernaut) - Challenges 1-11
+  * [Ethernaut Solutions by tinchoabbate](https://www.notonlyowner.com/)
+  * [The Ethernaut CTF Writeup by Arseny Reutov](https://blog.positive.com/the-ethernaut-ctf-writeup-dc3021824abc) - Challenges 0-6
+  * [Ethernaut Lvl 1 Walkthrough: how to abuse the Fallback function by Nicole Zhu](https://hackernoon.com/ethernaut-lvl-1-walkthrough-how-to-abuse-the-fallback-function-118057b68b56)
+
+* [Capture the Ether](https://capturetheether.com/)
+  * [Capture the Ether Solutions by cmichel](https://cmichel.io/capture-the-ether-solutions/)
+
+* [EtherHack](https://etherhack.positive.com/)
+  * [EtherHack Contest Writeup](https://blog.positive.com/phdays-8-etherhack-contest-writeup-794523f01248)
+
+* [Security Innovation Blockchain CTF](https://blockchain-ctf.securityinnovation.com/)
+  * [Security Innovation Blockchain CTF Solutions](https://github.com/narendrakpatel/blockchain-ctf-solutions) by Narendra Patel
+
+## Challenges and Writeups
 
 * [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz/)
-* [Ethernaut](https://ethernaut.openzeppelin.com/)
-* [Capture the Ether](https://capturetheether.com/)
-* [EtherHack](https://etherhack.positive.com/)
-* [Security Innovation Blockchain CTF](https://blockchain-ctf.securityinnovation.com/)
-* [HACON2020 CTF by RazzorSec](https://github.com/razzorsec/Blockchain-HACON2020)
-* [Damn Vulnerable Crypto Wallet](https://gitlab.com/badbounty/dvcw)
+  * [Damn Vulnerable DeFi Solutions by cmichel](https://cmichel.io/damn-vulnerable-de-fi-solutions/)
+  * [Write-ups and lessons learned from Damn Vulnerable #DeFi by Damian Rusinek](https://drdr-zz.medium.com/write-ups-and-lessons-learned-from-damn-vulnerable-defi-caa95d2678ec)
+  * [Damn Vulnerable DeFi — Setup and Challenge #1 Walkthrough by iphelix](https://iphelix.medium.com/damn-vulnerable-defi-setup-and-challenge-1-walkthrough-1ea16ea09709)
+  * [Damn Vulnerable DeFi — Challenge #2 Walkthrough by iphelix](https://iphelix.medium.com/damn-vulnerable-defi-challenge-2-walkthrough-c2a7eac3374d)
+  * [Damn Vulnerable DeFi — Challenge #3 Walkthrough by iphelix](https://iphelix.medium.com/damn-vulnerable-defi-challenge-3-walkthrough-fe8e9c8e36f3)
+  * [Damn Vulnerable DeFi — Challenge #4 Walkthrough by iphelix](https://iphelix.medium.com/damn-vulnerable-defi-challenge-4-walkthrough-881f7f12f118)
+  * [Damn Vulnerable DeFi — Challenge #5 Walkthrough by iphelix](https://iphelix.medium.com/damn-vulnerable-defi-challenge-5-walkthrough-2dd516735ad6)
+  * [Damn Vulnerable DeFi — Challenge #6 Walkthrough by iphelix](https://iphelix.medium.com/damn-vulnerable-defi-challenge-6-walkthrough-63c7584e5240)
+  * [Damn Vulnerable DeFi — Challenge #7 Walkthrough by iphelix](https://iphelix.medium.com/damn-vulnerable-defi-challenge-7-walkthrough-ee9fac3fdcd4)
+
 * [NCCGroup GOAT Casino](https://github.com/nccgroup/GOATCasino)
-* Authio Solidity CTF:
-  * [Part 1 - Function Types](https://ropsten.etherscan.io/address/0x727c1c8d4b190d208f3701f106f7301cb1a32f27#code)
-  * [Part 2 - Safe Execution](https://ropsten.etherscan.io/address/0x023916f968af3fbb21ac10abbe18448c79d609c2#code)
-  * [Part 3 - HoneyPot](https://ropsten.etherscan.io/address/0xdc65b61be773f8be72ded22ac008ad5add045e3c#code)
-  * [Part 4 - Read the Fine Print](https://ropsten.etherscan.io/address/0x1b359afb0bd86a6c435d178b1fbf8a6fda3ead7d#code)
-  * [Part 5 - Mirror Madness](https://etherscan.io/address/0x7cd03C9f1D2dc95358B1992e9afc857aeaab45D5)
+
+* [Damn Vulnerable Crypto Wallet](https://gitlab.com/badbounty/dvcw)
+
 * [Cryptohunt by p4d](https://github.com/PumpkingWok/CTFGym/tree/master/contracts/ctf-mainnet)
+
 * [Impossible by u/eththrowaway4](https://ropsten.etherscan.io/address/0x0daabce0a1261b582e0d949ebca9dff4c22c88ef#code)
 
-## CTF Announcements and Writeups
+## CTFs and Writeups
 
 * [Paradigm CTF](https://ctf.paradigm.xyz/) - 2021
   * [Paradigm CTF 2021 Solutions](https://cmichel.io/paradigm-ctf-2021-solutions/) and [Github repo](https://github.com/MrToph/paradigm-ctf) by cmichel
@@ -35,28 +56,6 @@ A curated list of blockchain security Capture the Flag (CTF) competitions
   * [Vault Challenge](https://smarx.com/posts/2021/02/writeup-of-paradigm-ctf-vault/) by Team Dilicious (smarx)
   * [Paradigm CTF Solutions](https://medium.com/furucombo/sharing-some-paradigm-ctf-solutions-befac01800e3) by Furucombo
 
-* [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz/) - 2020
-  * [Damn Vulnerable DeFi Solutions by cmichel](https://cmichel.io/damn-vulnerable-de-fi-solutions/)
-  * [Write-ups and lessons learned from Damn Vulnerable #DeFi by Damian Rusinek](https://drdr-zz.medium.com/write-ups-and-lessons-learned-from-damn-vulnerable-defi-caa95d2678ec)
-  * [Damn Vulnerable DeFi — Setup and Challenge #1 Walkthrough by iphelix](https://iphelix.medium.com/damn-vulnerable-defi-setup-and-challenge-1-walkthrough-1ea16ea09709)
-  * [Damn Vulnerable DeFi — Challenge #2 Walkthrough by iphelix](https://iphelix.medium.com/damn-vulnerable-defi-challenge-2-walkthrough-c2a7eac3374d)
-  * [Damn Vulnerable DeFi — Challenge #3 Walkthrough by iphelix](https://iphelix.medium.com/damn-vulnerable-defi-challenge-3-walkthrough-fe8e9c8e36f3)
-  * [Damn Vulnerable DeFi — Challenge #4 Walkthrough by iphelix](https://iphelix.medium.com/damn-vulnerable-defi-challenge-4-walkthrough-881f7f12f118)
-  * [Damn Vulnerable DeFi — Challenge #5 Walkthrough by iphelix](https://iphelix.medium.com/damn-vulnerable-defi-challenge-5-walkthrough-2dd516735ad6)
-  * [Damn Vulnerable DeFi — Challenge #6 Walkthrough by iphelix](https://iphelix.medium.com/damn-vulnerable-defi-challenge-6-walkthrough-63c7584e5240)
-  * [Damn Vulnerable DeFi — Challenge #7 Walkthrough by iphelix](https://iphelix.medium.com/damn-vulnerable-defi-challenge-7-walkthrough-ee9fac3fdcd4)
-  
-* [Ethernaut](https://ethernaut.openzeppelin.com/)
-  * [Ethernaut Solutions by cmichel](https://cmichel.io/ethernaut-solutions/) - Challenges 0-21
-  * [Ethernaut Writeups by Macmod](https://github.com/Macmod/ethernaut-writeups) - Challenges 0-9
-  * [Ethernaut Solutions by tsauvajon](https://github.com/tsauvajon/ethernaut) - Challenges 1-11
-  * [Ethernaut Solutions by tinchoabbate](https://www.notonlyowner.com/)
-  * [The Ethernaut CTF Writeup by Arseny Reutov](https://blog.positive.com/the-ethernaut-ctf-writeup-dc3021824abc) - Challenges 0-6
-  * [Ethernaut Lvl 1 Walkthrough: how to abuse the Fallback function by Nicole Zhu](https://hackernoon.com/ethernaut-lvl-1-walkthrough-how-to-abuse-the-fallback-function-118057b68b56)
-  
-* [Capture the Ether](https://capturetheether.com/)
-  * [Capture the Ether Solutions by cmichel](https://cmichel.io/capture-the-ether-solutions/)
-
 * [0xPOLAND](https://0xpoland.dev/) - 2020
   * [0xPOLAND — Adventure Awaits by iphelix](https://iphelix.medium.com/0xpoland-adventure-awaits-338ffc834d80)
 
@@ -65,9 +64,11 @@ A curated list of blockchain security Capture the Flag (CTF) competitions
   * [DeFi Detectives: Discovering the Secrets of the DeFi Ecosystem](https://anchainai.medium.com/defi-detectives-discovering-the-secrets-of-the-defi-ecosystem-f227e5c8038a)
   * [Congratulations Bitcoin Bounty Hunters! The World’s First Blockchain Investigation Contest.](https://anchainai.medium.com/congratulations-bitcoin-bounty-hunters-the-worlds-first-blockchain-investigation-contest-a271d84fcc05)
 
-* [Sharky CTF](https://ctftime.org/ctf/439)
+* [Sharky CTF](https://ctftime.org/ctf/439) - 2020
   * [Sharky CTF: Blockchain Level 0 to 4 Writeup](https://medium.com/zh3r0/sharky-ctf-blockchain-level-0-to-4-writeup-524b728709d0) by Nithilan Pugal
   * [Sharky CTF Blockchain Challenges](https://imagin.vip/?p=1380) by Imagin
+
+* [HACON2020 CTF by RazzorSec](https://github.com/razzorsec/Blockchain-HACON2020)
 
 * [Donjon CTF](https://donjon-ctf.io/) - 2020
   * [CTF 2020: Capture the Fortress](https://donjon.ledger.com/Capture-the-Fortress/)
@@ -91,15 +92,19 @@ A curated list of blockchain security Capture the Flag (CTF) competitions
 * Code Blue PolySwarm Challenge - 2018
   * [PolySwarm Smart Contract Hacking Challenge Writeup](https://raz0r.name/writeups/polyswarm-smart-contract-hacking-challenge-writeup/) by Arseny Reutov
   
-* [EtherHack](https://etherhack.positive.com/) - 2018
-  * [EtherHack Contest Writeup](https://blog.positive.com/phdays-8-etherhack-contest-writeup-794523f01248)
 
 * Real World CTF (Acoraida Monica Challenge) - 2018
   * [Challenge files and Solution](https://gist.github.com/LiveOverflow/21c8a505ca176e5bb20bc94eb23acdf1) by LiveOverflow
   * [Ethereum Smart Contract Code Review #1 - Real World CTF 2018](https://www.youtube.com/watch?v=ozqOlUVKL1s) by LiveOverflow
   * [Jump Oriented Programming: Ethereum Smart Contract #2 - Real World CTF 2018](https://www.youtube.com/watch?v=RfL3FcnVbJg) by LiveOverflow
   
-* Authio Solidity CTF - 2018
+* Authio Solidity CTF
+  * Challenges:
+    * [Part 1 - Function Types](https://ropsten.etherscan.io/address/0x727c1c8d4b190d208f3701f106f7301cb1a32f27#code)
+    * [Part 2 - Safe Execution](https://ropsten.etherscan.io/address/0x023916f968af3fbb21ac10abbe18448c79d609c2#code)
+    * [Part 3 - HoneyPot](https://ropsten.etherscan.io/address/0xdc65b61be773f8be72ded22ac008ad5add045e3c#code)
+    * [Part 4 - Read the Fine Print](https://ropsten.etherscan.io/address/0x1b359afb0bd86a6c435d178b1fbf8a6fda3ead7d#code)
+    * [Part 5 - Mirror Madness](https://etherscan.io/address/0x7cd03C9f1D2dc95358B1992e9afc857aeaab45D5)
   * [Solidity CTF - Part 1: "Function Types](https://www.reddit.com/r/ethdev/comments/8td9xn/challenge_empty_the_contract_of_funds/)
   * [Solidity CTF — Part 2: “Safe Execution”](https://medium.com/authio/solidity-ctf-part-2-safe-execution-ad6ded20e042)by Alexander Wade
   * [Solidity CTF — Part 3: “HoneyPot”](https://medium.com/authio/solidity-ctf-part-3-honeypot-8a8b6fecc6a2) by Alexander Wade
