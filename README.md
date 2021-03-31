@@ -44,17 +44,20 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
 ## CTFs and Writeups
 
 * [Paradigm CTF](https://ctf.paradigm.xyz/) - 2021
-  * [Paradigm CTF 2021 Solutions](https://cmichel.io/paradigm-ctf-2021-solutions/) and [Github repo](https://github.com/MrToph/paradigm-ctf) by cmichel
-  * [BabyRev and Upgrade Solutions](https://hackmd.io/@adietrichs/paradigm-ctf-2021) by Ansgar Dietrichs
-  * Paradigm JOP Solution on Twitch [Part 1](https://www.twitch.tv/videos/906353891) and [Part 2](https://www.twitch.tv/videos/907645638) by Ansgar Dietrichs
-  * [Paradigm CTF 2021 Solutions](https://github.com/thegostep/paradigm-ctf) by thegostep
-  * [BabyCrypto, BabySandbox, and Lockbox writeups](https://gist.github.com/roynalnaruto/3687e0ab19c22ecbc32f0dcff5790198) by roynalnaruto
-  * [BabyCrypto Challenge](https://binarycake.ca/posts/paradigm-ctf/) by Team Dilicious (Sam Wilson)
-  * [Broker Challenge](https://binarycake.ca/posts/paradigm-ctf-broker/) by Team Dilicious (Sam Wilson)
-  * [BabyRev Challenge](https://binarycake.ca/posts/paradigm-ctf-babyrev/index.html) by Team Dilicious (Sam Wilson)
-  * [Bank Challenge](https://smarx.com/posts/2021/02/writeup-of-paradigm-ctf-bank/) by Team Dilicious (smarx)
-  * [Vault Challenge](https://smarx.com/posts/2021/02/writeup-of-paradigm-ctf-vault/) by Team Dilicious (smarx)
-  * [Paradigm CTF Solutions](https://medium.com/furucombo/sharing-some-paradigm-ctf-solutions-befac01800e3) by Furucombo
+  * Official Challenges and Solutions:
+    * [paradigm-ctf-2021](https://github.com/paradigm-operations/paradigm-ctf-2021)
+  * Community Solutions:
+    * [Paradigm CTF 2021 Solutions](https://cmichel.io/paradigm-ctf-2021-solutions/) and [Github repo](https://github.com/MrToph/paradigm-ctf) by cmichel
+    * [BabyRev and Upgrade Solutions](https://hackmd.io/@adietrichs/paradigm-ctf-2021) by Ansgar Dietrichs
+    * Paradigm JOP Solution on Twitch [Part 1](https://www.twitch.tv/videos/906353891) and [Part 2](https://www.twitch.tv/videos/907645638) by Ansgar Dietrichs
+    * [Paradigm CTF 2021 Solutions](https://github.com/thegostep/paradigm-ctf) by thegostep
+    * [BabyCrypto, BabySandbox, and Lockbox writeups](https://gist.github.com/roynalnaruto/3687e0ab19c22ecbc32f0dcff5790198) by roynalnaruto
+    * [BabyCrypto Challenge](https://binarycake.ca/posts/paradigm-ctf/) by Team Dilicious (Sam Wilson)
+    * [Broker Challenge](https://binarycake.ca/posts/paradigm-ctf-broker/) by Team Dilicious (Sam Wilson)
+    * [BabyRev Challenge](https://binarycake.ca/posts/paradigm-ctf-babyrev/index.html) by Team Dilicious (Sam Wilson)
+    * [Bank Challenge](https://smarx.com/posts/2021/02/writeup-of-paradigm-ctf-bank/) by Team Dilicious (smarx)
+    * [Vault Challenge](https://smarx.com/posts/2021/02/writeup-of-paradigm-ctf-vault/) by Team Dilicious (smarx)
+    * [Paradigm CTF Solutions](https://medium.com/furucombo/sharing-some-paradigm-ctf-solutions-befac01800e3) by Furucombo
 
 * [0xPOLAND](https://0xpoland.dev/) - 2020
   * [0xPOLAND — Adventure Awaits by iphelix](https://iphelix.medium.com/0xpoland-adventure-awaits-338ffc834d80)
