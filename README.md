@@ -85,6 +85,7 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
   * [Capture the Coin — Trivia Solutions](https://blog.coinbase.com/capture-the-coin-trivia-solutions-98fd99aadb75)
   * [Capture the Coin — Blockchain Category Solutions](https://blog.coinbase.com/capture-the-coin-blockchain-category-solutions-9aef880d7e00)
   * [Capture the Coin — Cryptography Category Solutions](https://blog.coinbase.com/capture-the-coin-cryptography-category-solutions-fe94d82165c5)
+  * [Capture the Coin CTF write-up](https://medium.com/@arpox/capture-the-coin-ctf-write-up-29bc32bc9546) by Arpox
   
 * [ConsenSys Dilligence Ethereum Hacking Challenge](https://medium.com/consensys-diligence/consensys-diligence-ether-giveaway-1-4985627b7726) - 2018
   * [Consensys CTF Writeup by samczsun](https://samczsun.com/consensys-ctf-writeup/)
