@@ -65,6 +65,10 @@ A curated list of blockchain security Capture the Flag (CTF) competitions
   * [DeFi Detectives: Discovering the Secrets of the DeFi Ecosystem](https://anchainai.medium.com/defi-detectives-discovering-the-secrets-of-the-defi-ecosystem-f227e5c8038a)
   * [Congratulations Bitcoin Bounty Hunters! The World’s First Blockchain Investigation Contest.](https://anchainai.medium.com/congratulations-bitcoin-bounty-hunters-the-worlds-first-blockchain-investigation-contest-a271d84fcc05)
 
+* [Sharky CTF](https://ctftime.org/ctf/439)
+  * [Sharky CTF: Blockchain Level 0 to 4 Writeup](https://medium.com/zh3r0/sharky-ctf-blockchain-level-0-to-4-writeup-524b728709d0) by Nithilan Pugal
+  * [Sharky CTF Blockchain Challenges](https://imagin.vip/?p=1380) by Imagin
+
 * [Donjon CTF](https://donjon-ctf.io/) - 2020
   * [CTF 2020: Capture the Fortress](https://donjon.ledger.com/Capture-the-Fortress/)
   * [Ledger Donjon CTF: Rationale and Winners!](https://www.ledger.com/blog/ledger-donjon-ctf-2020-challenges-and-winners)
@@ -84,8 +88,16 @@ A curated list of blockchain security Capture the Flag (CTF) competitions
 * [ConsenSys Dilligence Ethereum Hacking Challenge](https://medium.com/consensys-diligence/consensys-diligence-ether-giveaway-1-4985627b7726) - 2018
   * [Consensys CTF Writeup by samczsun](https://samczsun.com/consensys-ctf-writeup/)
   
+* Code Blue PolySwarm Challenge - 2018
+  * [PolySwarm Smart Contract Hacking Challenge Writeup](https://raz0r.name/writeups/polyswarm-smart-contract-hacking-challenge-writeup/) by Arseny Reutov
+  
 * [EtherHack](https://etherhack.positive.com/) - 2018
   * [EtherHack Contest Writeup](https://blog.positive.com/phdays-8-etherhack-contest-writeup-794523f01248)
+
+* Real World CTF (Acoraida Monica Challenge) - 2018
+  * [Challenge files and Solution](https://gist.github.com/LiveOverflow/21c8a505ca176e5bb20bc94eb23acdf1) by LiveOverflow
+  * [Ethereum Smart Contract Code Review #1 - Real World CTF 2018](https://www.youtube.com/watch?v=ozqOlUVKL1s) by LiveOverflow
+  * [Jump Oriented Programming: Ethereum Smart Contract #2 - Real World CTF 2018](https://www.youtube.com/watch?v=RfL3FcnVbJg) by LiveOverflow
   
 * Authio Solidity CTF - 2018
   * [Solidity CTF - Part 1: "Function Types](https://www.reddit.com/r/ethdev/comments/8td9xn/challenge_empty_the_contract_of_funds/)
@@ -93,3 +105,6 @@ A curated list of blockchain security Capture the Flag (CTF) competitions
   * [Solidity CTF — Part 3: “HoneyPot”](https://medium.com/authio/solidity-ctf-part-3-honeypot-8a8b6fecc6a2) by Alexander Wade
   * [Solidity CTF — Part 4: Read the Fine Print](https://medium.com/authio/solidity-ctf-part-4-read-the-fine-print-5ad259a5f5bb) by Alex Towle
   * [Solidity CTF - Part 5: Mirror Madness](https://medium.com/authio/ctf-duplication-dd32cd4ef690) by Paul Vienhage
+
+* ZeroNights ICO Hacking Contest - 2017
+  * [ZeroNights ICO Hacking Contest Writeup](https://blog.positive.com/zeronights-ico-hacking-contest-writeup-63afb996f1e3) by Arseny Reutov
