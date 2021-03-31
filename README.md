@@ -1,7 +1,7 @@
 # Awesome Blocksec CTFs
 A curated list of blockchain security Wargames, Challenges, and Capture the Flag (CTF) competitions and solution writeups.
 
-## Wargames, Challenges and their Writeups
+## Wargames and Writeups
 
 * [Ethernaut](https://ethernaut.openzeppelin.com/)
   * [Ethernaut Solutions by cmichel](https://cmichel.io/ethernaut-solutions/) - Challenges 0-21
