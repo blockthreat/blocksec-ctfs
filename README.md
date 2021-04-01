@@ -1,4 +1,4 @@
-# Awesome Blocksec CTFs
+# Blocksec CTFs
 A curated list of blockchain security Wargames, Challenges, and Capture the Flag (CTF) competitions and solution writeups.
 
 ## Wargames and Writeups
