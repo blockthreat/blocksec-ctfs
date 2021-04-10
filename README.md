@@ -58,6 +58,7 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
     * [Bank Challenge](https://smarx.com/posts/2021/02/writeup-of-paradigm-ctf-bank/) by Team Dilicious (smarx)
     * [Vault Challenge](https://smarx.com/posts/2021/02/writeup-of-paradigm-ctf-vault/) by Team Dilicious (smarx)
     * [Paradigm CTF Solutions](https://medium.com/furucombo/sharing-some-paradigm-ctf-solutions-befac01800e3) by Furucombo
+    * [Swap Challenge](https://samczsun.com/paradigm-ctf-2021-swap/) by samczsun
 
 * [0xPOLAND](https://0xpoland.dev/) - 2020
   * [0xPOLAND — Adventure Awaits by iphelix](https://iphelix.medium.com/0xpoland-adventure-awaits-338ffc834d80)
