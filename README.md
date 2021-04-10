@@ -9,7 +9,26 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
   * [Ethernaut Solutions by tsauvajon](https://github.com/tsauvajon/ethernaut) - Challenges 1-11
   * [Ethernaut Solutions by tinchoabbate](https://www.notonlyowner.com/)
   * [The Ethernaut CTF Writeup by Arseny Reutov](https://blog.positive.com/the-ethernaut-ctf-writeup-dc3021824abc) - Challenges 0-6
-  * [Ethernaut Lvl 1 Walkthrough: how to abuse the Fallback function by Nicole Zhu](https://hackernoon.com/ethernaut-lvl-1-walkthrough-how-to-abuse-the-fallback-function-118057b68b56)
+  * [Ethernaut Lvl 0 Walkthrough: ABIs, Web3, and how to abuse them](https://medium.com/hackernoon/ethernaut-lvl-0-walkthrough-abis-web3-and-how-to-abuse-them-d92a8842d71b) by Nicole Zhu
+  * [Ethernaut Lvl 1 Walkthrough: how to abuse the Fallback function](https://medium.com/hackernoon/ethernaut-lvl-1-walkthrough-how-to-abuse-the-fallback-function-118057b68b56) by Nicole Zhu
+  * [Ethernaut Lvl 2 Fallout Walkthrough: how simple developer errors become big mistakes](https://medium.com/@nicolezhu/ethernaut-lvl-2-walkthrough-how-simple-developer-errors-become-big-mistakes-b705ff00a62f) by Nicole Zhu
+  * [Ethernaut Lvl 3 Coin Flip Walkthrough: how to abuse psuedo randomness in smart contracts](https://medium.com/@nicolezhu/ethernaut-lvl-3-walkthrough-how-to-abuse-psuedo-randomness-in-smart-contracts-4cc06bb82570) by Nicole Zhu
+  * [Ethernaut Lvl 4 Telephone Walkthrough: how to abuse tx.origin & msg.sender](https://medium.com/@nicolezhu/ethernaut-lvl-4-walkthrough-how-to-abuse-tx-origin-msg-sender-ef37d6751c8) by Nicole Zhu
+  * [Ethernaut Lvl 5 Token Walkthrough: How to abuse arithmetic underflows and overflows](https://medium.com/coinmonks/ethernaut-lvl-5-walkthrough-how-to-abuse-arithmetic-underflows-and-overflows-2c614fa86b74) by Nicole Zhu
+  * [Ethernaut Lvl 6 Delegation Walkthrough: How to abuse the delicate delegatecall](https://medium.com/coinmonks/ethernaut-lvl-6-walkthrough-how-to-abuse-the-delicate-delegatecall-466b26c429e4) by Nicole Zhu
+  * [Ethernaut Lvl 7 Force Walkthrough — How to selfdestruct and create an Ether blackhole](https://medium.com/coinmonks/ethernaut-lvl-7-walkthrough-how-to-selfdestruct-and-create-an-ether-blackhole-eb5bb72d2c57) by Nicole Zhu
+  * [Ethernaut Lvl 8 Vault Walkthrough — How to read “private” variables in contract storage (with Truffle)](https://medium.com/coinmonks/how-to-read-private-variables-in-contract-storage-with-truffle-ethernaut-lvl-8-walkthrough-b2382741da9f) by Nicole Zhu
+  * [Ethernaut Lvl 9 King Walkthrough: How bad contracts can abuse withdrawals](https://medium.com/coinmonks/ethernaut-lvl-9-king-walkthrough-how-bad-contracts-can-abuse-withdrawals-db12754f359b) by Nicole Zhu
+  * [Ethernaut Lvl 10 Re-entrancy Walkthrough: How to abuse execution ordering and reproduce the DAO hack](https://medium.com/coinmonks/ethernaut-lvl-10-re-entrancy-walkthrough-how-to-abuse-execution-ordering-and-reproduce-the-dao-7ec88b912c14) by Nicole Zhu
+  * [Ethernaut Lvl 11 Elevator Walkthrough: How to abuse Solidity interfaces and function state modifiers](https://medium.com/coinmonks/ethernaut-lvl-11-elevator-walkthrough-how-to-abuse-solidity-interfaces-and-function-state-41005470121d) by Nicole Zhu
+  * [Ethernaut Lvl 12 Privacy Walkthrough: How Ethereum optimizes storage to save space and be less gassy](https://medium.com/coinmonks/ethernaut-lvl-12-privacy-walkthrough-how-ethereum-optimizes-storage-to-save-space-and-be-less-c9b01ec6adb6) by Nicole Zhu
+  * [Ethernaut Lvl 13 Gatekeeper 1 Walkthrough: How to calculate smart contract gas consumption (and byte masking)](https://medium.com/coinmonks/ethernaut-lvl-13-gatekeeper-1-walkthrough-how-to-calculate-smart-contract-gas-consumption-and-eb4b042d3009) by Nicole Zhu
+  * [Ethernaut Lvl 14 Gatekeeper 2 Walkthrough: How contracts initialize (and how to do bitwise operations)](https://medium.com/coinmonks/ethernaut-lvl-14-gatekeeper-2-walkthrough-how-contracts-initialize-and-how-to-do-bitwise-ddac8ad4f0fd) by Nicole Zhu
+  * [Ethernaut Lvl 15 Naught Coin Walkthrough: How to abuse ERC20 tokens and bad ICOs](https://medium.com/coinmonks/ethernaut-lvl-15-naught-coin-walkthrough-how-to-abuse-erc20-tokens-and-bad-icos-6668b856a176) by Nicole Zhu
+  * [Ethernaut Lvl 16 Preservation Walkthrough: How to inject malicious contracts with delegatecall](https://medium.com/coinmonks/ethernaut-lvl-16-preservation-walkthrough-how-to-inject-malicious-contracts-with-delegatecall-81e071f98a12) by Nicole Zhu
+  * [Ethernaut Lvl 17 Locked Walkthrough: How to properly use (and abuse) structs in Solidity](https://medium.com/coinmonks/ethernaut-lvl-17-locked-walkthrough-how-to-properly-use-structs-in-solidity-f9900c8843e2) by Nicole Zhu
+  * [Ethernaut Lvl 18 Recovery Walkthrough: How to retrieve lost contract addresses (in 2 ways)](https://medium.com/coinmonks/ethernaut-lvl-18-recovery-walkthrough-how-to-retrieve-lost-contract-addresses-in-2-ways-aba54ab167d3) by Nicole Zhu
+  * [Ethernaut Lvl 19 MagicNumber Walkthrough: How to deploy contracts using raw assembly opcodes](https://medium.com/coinmonks/ethernaut-lvl-19-magicnumber-walkthrough-how-to-deploy-contracts-using-raw-assembly-opcodes-c50edb0f71a2) by Nicole Zhu
 
 * [Capture the Ether](https://capturetheether.com/)
   * [Capture the Ether Solutions by cmichel](https://cmichel.io/capture-the-ether-solutions/)
