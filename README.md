@@ -91,7 +91,9 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
   * [Sharky CTF: Blockchain Level 0 to 4 Writeup](https://medium.com/zh3r0/sharky-ctf-blockchain-level-0-to-4-writeup-524b728709d0) by Nithilan Pugal
   * [Sharky CTF Blockchain Challenges](https://imagin.vip/?p=1380) by Imagin
 
-* [HACON2020 CTF by RazzorSec](https://github.com/razzorsec/Blockchain-HACON2020)
+* [RazzorSec CTF](https://github.com/razzorsec/CTF)
+  * [HACON 2020](https://github.com/razzorsec/CTF/blob/master/HACON2020.md)
+  * [Sherlock](https://github.com/razzorsec/CTF/blob/master/Sherlock.md)
 
 * [Donjon CTF](https://donjon-ctf.io/) - 2020
   * [CTF 2020: Capture the Fortress](https://donjon.ledger.com/Capture-the-Fortress/)
