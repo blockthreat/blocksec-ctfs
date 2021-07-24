@@ -40,6 +40,7 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
   * [Security Innovation Blockchain CTF Solutions](https://github.com/narendrakpatel/blockchain-ctf-solutions) by Narendra Patel
 
 * [Cipher Shastra](https://ciphershastra.com/)
+  * [Sherlock Writeup](https://razzor-writes.medium.com/sherlock-writeup-1fb5521ecd3a) by Razzor
 
 ## Challenges and Writeups
 
