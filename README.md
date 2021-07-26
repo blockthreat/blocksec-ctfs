@@ -63,6 +63,11 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
 
 * [Impossible by u/eththrowaway4](https://ropsten.etherscan.io/address/0x0daabce0a1261b582e0d949ebca9dff4c22c88ef#code)
 
+* Break My Contract, Steal My Money Challenges
+  * [Break My Contract, Steal My Money - A Solidity Riddle](https://www.reddit.com/r/CryptoCurrency/comments/o6fshx/break_my_contract_steal_my_money_a_solidity_riddle/)
+  * [Break My Contract (Part 1) - Buffer Overflow Solution](https://safecrypto.medium.com/break-my-contract-part-1-buffer-overflow-fbc2f63401ce)
+  * [Break My Contract, Steal My Money - A Solidity Riddle (Part 2)](https://www.reddit.com/r/CryptoCurrency/comments/oiv9dx/break_my_contract_steal_my_money_a_solidity/)
+
 ## CTFs and Writeups
 
 * [Paradigm CTF](https://ctf.paradigm.xyz/) - 2021
