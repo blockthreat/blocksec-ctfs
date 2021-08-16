@@ -105,6 +105,7 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
   * [HACON 2020](https://github.com/razzorsec/CTF/blob/master/HACON2020.md)
   * [Sherlock](https://github.com/razzorsec/CTF/blob/master/Sherlock.md)
   * [Minion](https://github.com/razzorsec/CTF/blob/master/Minion.md)
+  * [Shilpkaar](https://github.com/razzorsec/CTF/blob/master/Shilpkaar.md)
 
 * [Donjon CTF](https://donjon-ctf.io/) - 2020
   * [CTF 2020: Capture the Fortress](https://donjon.ledger.com/Capture-the-Fortress/)
