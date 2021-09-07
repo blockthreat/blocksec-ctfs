@@ -29,6 +29,8 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
   * [Ethernaut Lvl 17 Locked Walkthrough: How to properly use (and abuse) structs in Solidity](https://medium.com/coinmonks/ethernaut-lvl-17-locked-walkthrough-how-to-properly-use-structs-in-solidity-f9900c8843e2) by Nicole Zhu
   * [Ethernaut Lvl 18 Recovery Walkthrough: How to retrieve lost contract addresses (in 2 ways)](https://medium.com/coinmonks/ethernaut-lvl-18-recovery-walkthrough-how-to-retrieve-lost-contract-addresses-in-2-ways-aba54ab167d3) by Nicole Zhu
   * [Ethernaut Lvl 19 MagicNumber Walkthrough: How to deploy contracts using raw assembly opcodes](https://medium.com/coinmonks/ethernaut-lvl-19-magicnumber-walkthrough-how-to-deploy-contracts-using-raw-assembly-opcodes-c50edb0f71a2) by Nicole Zhu
+  * [Ethernaut Challenges solutions by Asamartino](https://github.com/Asamartino/EthernautChallenges) - Challenges (0-21)
+  * [Ethernaut Challenges solutions by Simon ](https://github.com/STYJ/Ethernaut-Solutions) - Challenges (0-21)
 
 * [Capture the Ether](https://capturetheether.com/)
   * [Capture the Ether Solutions by cmichel](https://cmichel.io/capture-the-ether-solutions/)
