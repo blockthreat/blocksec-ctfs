@@ -46,6 +46,10 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
 
 ## Challenges and Writeups
 
+* [Pinball CTF](https://rinkeby.etherscan.io/address/0xffb9205c84d0b209c215212a3cdfc50bf1cfb0e0#code) by samczsun
+  * [Solution](https://twitter.com/karmacoma_eth/status/1451625194380939270) by KarmaComa
+  * [Solution](https://twitter.com/adietrichs/status/1452040913140822020?s=20) by adietrichs
+
 * [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz/)
   * [Damn Vulnerable DeFi Solutions by cmichel](https://cmichel.io/damn-vulnerable-de-fi-solutions/)
   * [Write-ups and lessons learned from Damn Vulnerable #DeFi by Damian Rusinek](https://drdr-zz.medium.com/write-ups-and-lessons-learned-from-damn-vulnerable-defi-caa95d2678ec)
@@ -90,10 +94,6 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
     * [Vault Challenge](https://smarx.com/posts/2021/02/writeup-of-paradigm-ctf-vault/) by Team Dilicious (smarx)
     * [Paradigm CTF Solutions](https://medium.com/furucombo/sharing-some-paradigm-ctf-solutions-befac01800e3) by Furucombo
     * [Swap Challenge](https://samczsun.com/paradigm-ctf-2021-swap/) by samczsun
-
-* [Pinball CTF](https://rinkeby.etherscan.io/address/0xffb9205c84d0b209c215212a3cdfc50bf1cfb0e0#code) by samczsun
-  * [Solution](https://twitter.com/karmacoma_eth/status/1451625194380939270) by KarmaComa
-  * [Solution](https://twitter.com/adietrichs/status/1452040913140822020?s=20) by adietrichs
 
 * [0xPOLAND](https://0xpoland.dev/) - 2020
   * [0xPOLAND — Adventure Awaits by iphelix](https://iphelix.medium.com/0xpoland-adventure-awaits-338ffc834d80)
