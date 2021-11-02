@@ -80,7 +80,7 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
   * Community Solutions:
     * [Paradigm CTF 2021 Solutions](https://cmichel.io/paradigm-ctf-2021-solutions/) and [Github repo](https://github.com/MrToph/paradigm-ctf) by cmichel
     * [BabyRev and Upgrade Solutions](https://hackmd.io/@adietrichs/paradigm-ctf-2021) by Ansgar Dietrichs
-    * Paradigm JOP Solution on Twitch [Part 1](https://www.twitch.tv/videos/906353891) and [Part 2](https://www.twitch.tv/videos/907645638) by Ansgar Dietrichs
+    * [Paradigm JOP Solution on Twitch [Part 1](https://www.twitch.tv/videos/906353891) and [Part 2](https://www.twitch.tv/videos/907645638) by Ansgar Dietrichs
     * [Paradigm CTF 2021 Solutions](https://github.com/thegostep/paradigm-ctf) by thegostep
     * [BabyCrypto, BabySandbox, and Lockbox writeups](https://gist.github.com/roynalnaruto/3687e0ab19c22ecbc32f0dcff5790198) by roynalnaruto
     * [BabyCrypto Challenge](https://binarycake.ca/posts/paradigm-ctf/) by Team Dilicious (Sam Wilson)
@@ -90,6 +90,10 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
     * [Vault Challenge](https://smarx.com/posts/2021/02/writeup-of-paradigm-ctf-vault/) by Team Dilicious (smarx)
     * [Paradigm CTF Solutions](https://medium.com/furucombo/sharing-some-paradigm-ctf-solutions-befac01800e3) by Furucombo
     * [Swap Challenge](https://samczsun.com/paradigm-ctf-2021-swap/) by samczsun
+
+* [Pinball CTF](https://rinkeby.etherscan.io/address/0xffb9205c84d0b209c215212a3cdfc50bf1cfb0e0#code) by samczsun
+  * [Solution](https://twitter.com/karmacoma_eth/status/1451625194380939270) by KarmaComa
+  * [Solution](https://twitter.com/adietrichs/status/1452040913140822020?s=20) by adietrichs
 
 * [0xPOLAND](https://0xpoland.dev/) - 2020
   * [0xPOLAND — Adventure Awaits by iphelix](https://iphelix.medium.com/0xpoland-adventure-awaits-338ffc834d80)
