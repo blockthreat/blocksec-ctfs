@@ -49,6 +49,7 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
 * [Pinball Challenge](https://rinkeby.etherscan.io/address/0xffb9205c84d0b209c215212a3cdfc50bf1cfb0e0#code) by samczsun
   * [Solution](https://twitter.com/karmacoma_eth/status/1451625194380939270) by KarmaComa
   * [Solution](https://twitter.com/adietrichs/status/1452040913140822020?s=20) by adietrichs
+  * [Solution](https://medium.com/@kanewallmann_71759/an-untrustworthy-pinball-machine-d9dcd07882c) by Kane Wallmann
 
 * [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz/)
   * [Damn Vulnerable DeFi Solutions by cmichel](https://cmichel.io/damn-vulnerable-de-fi-solutions/)
