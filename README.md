@@ -44,6 +44,10 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
 * [Cipher Shastra](https://ciphershastra.com/)
   * [Sherlock Writeup](https://razzor-writes.medium.com/sherlock-writeup-1fb5521ecd3a) by Razzor
 
+* [DeFi Hack](https://defihack.xyz/)
+  * [DeFi Hack solutions: DiscoLP](https://raz0r.name/writeups/defi-hack-solutions-discolp/)
+  * [DeFi Hack solutions: May The Force Be With You](https://raz0r.name/writeups/defi-hack-solutions-may-the-force-be-with-you/)
+
 ## Challenges and Writeups
 
 * [Pinball Challenge](https://rinkeby.etherscan.io/address/0xffb9205c84d0b209c215212a3cdfc50bf1cfb0e0#code) by samczsun
