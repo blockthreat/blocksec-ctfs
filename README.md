@@ -83,6 +83,9 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
 
 ## CTFs and Writeups
 
+* [The Standoff Digital Art Competition](https://nft.standoff365.com/)
+  * [Разбор заданий конкурса на взлом NFT “The Standoff Digital Art”](https://habr.com/ru/company/pt/blog/590301/)
+
 * [Paradigm CTF](https://ctf.paradigm.xyz/) - 2021
   * Official Challenges and Solutions:
     * [paradigm-ctf-2021](https://github.com/paradigm-operations/paradigm-ctf-2021)
