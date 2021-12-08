@@ -67,6 +67,7 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
   * [Damn Vulnerable DeFi — Challenge #5 Walkthrough by iphelix](https://iphelix.medium.com/damn-vulnerable-defi-challenge-5-walkthrough-2dd516735ad6)
   * [Damn Vulnerable DeFi — Challenge #6 Walkthrough by iphelix](https://iphelix.medium.com/damn-vulnerable-defi-challenge-6-walkthrough-63c7584e5240)
   * [Damn Vulnerable DeFi — Challenge #7 Walkthrough by iphelix](https://iphelix.medium.com/damn-vulnerable-defi-challenge-7-walkthrough-ee9fac3fdcd4)
+  * [Damn Vulnerable DeFi Video Solutions by Smart Contract Programmer](https://www.youtube.com/playlist?list=PLO5VPQH6OWdXKPThrch6U0imGdD3pHLXi)
 
 * [NCCGroup GOAT Casino](https://github.com/nccgroup/GOATCasino)
 
