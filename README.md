@@ -34,6 +34,7 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
 
 * [Capture the Ether](https://capturetheether.com/)
   * [Capture the Ether Solutions by cmichel](https://cmichel.io/capture-the-ether-solutions/)
+  * [Capture the Ether Solution](https://www.rphad.com/en/blog/2021/12/30/) by RD
 
 * [EtherHack](https://etherhack.positive.com/)
   * [EtherHack Contest Writeup](https://blog.positive.com/phdays-8-etherhack-contest-writeup-794523f01248)
