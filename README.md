@@ -88,6 +88,8 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
 
 * [Hacking smart contracts for fun and profit](https://gist.github.com/seresistvanandras/b66d3fd8c7681e8643e77ef8c5b9f634) by [István András Seres](https://gist.github.com/seresistvanandras)
 
+* [Challenges by @robot_dreams](https://twitter.com/robot__dreams/status/1479518204036669441)
+
 ## CTFs and Writeups
 
 * [The Standoff Digital Art Competition](https://nft.standoff365.com/)
