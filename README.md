@@ -51,6 +51,8 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
 
 ## Challenges and Writeups
 
+* [EVM puzzles](https://github.com/fvictorio/evm-puzzles) by fvictorio
+
 * [Solana Security Workshop](https://workshop.neodyme.io/index.html) by Neodyme
   * [Solution](https://github.com/MrToph/neodyme-breakpoint-workshop) by Christoph Michel
 
