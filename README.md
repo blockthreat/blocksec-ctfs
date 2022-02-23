@@ -31,6 +31,13 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
   * [Ethernaut Lvl 19 MagicNumber Walkthrough: How to deploy contracts using raw assembly opcodes](https://medium.com/coinmonks/ethernaut-lvl-19-magicnumber-walkthrough-how-to-deploy-contracts-using-raw-assembly-opcodes-c50edb0f71a2) by Nicole Zhu
   * [Ethernaut Challenges solutions by Asamartino](https://github.com/Asamartino/EthernautChallenges) - Challenges (0-21)
   * [Ethernaut Challenges solutions by Simon ](https://github.com/STYJ/Ethernaut-Solutions) - Challenges (0-21)
+  * [Ethernaut CTF Level 0 by D-Squared](https://www.youtube.com/watch?v=MaGAVBRwvbg)
+  * [Ethernaut CTF Level 1 by D-Squared](https://www.youtube.com/watch?v=i-8cCDajPDQ)
+  * [Ethernaut CTF Level 2 by D-Squared](https://www.youtube.com/watch?v=VGbxxdhOWvU)
+  * [Ethernaut CTF Level 3 by D-Squared](https://www.youtube.com/watch?v=_ROuN1y6ldA)
+  * [Ethernaut CTF Level 4 by D-Squared](https://www.youtube.com/watch?v=I12eO0nKOew)
+  * [Ethernaut CTF Level 5 by D-Squared](https://www.youtube.com/watch?v=_ylKN2R_o-Y)
+  * [Ethernaut CTF Level 6 by D-Squared](https://www.youtube.com/watch?v=_guLtDn_0_Y)
 
 * [Capture the Ether](https://capturetheether.com/)
   * [Capture the Ether Solutions by cmichel](https://cmichel.io/capture-the-ether-solutions/)
