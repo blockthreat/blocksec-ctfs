@@ -58,6 +58,8 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
 
 ## Challenges and Writeups
 
+* [Immunefi Community Challenges](https://github.com/immunefi-team/community-challenges) by Immunefi
+
 * [EVM puzzles](https://github.com/fvictorio/evm-puzzles) by fvictorio
 
 * [Solana Security Workshop](https://workshop.neodyme.io/index.html) by Neodyme
