@@ -61,6 +61,7 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
 * [Immunefi Community Challenges](https://github.com/immunefi-team/community-challenges) by Immunefi
 
 * [EVM puzzles](https://github.com/fvictorio/evm-puzzles) by fvictorio
+  * [Learning Ethereum Virtual Machine Opcodes With EVM Puzzles](https://ventral.digital/posts/2022/2/24/learning-ethereum-virtual-machine-opcodes-with-evm-puzzles) by patrickd 
 
 * [Solana Security Workshop](https://workshop.neodyme.io/index.html) by Neodyme
   * [Solution](https://github.com/MrToph/neodyme-breakpoint-workshop) by Christoph Michel
@@ -82,7 +83,14 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
   * [Damn Vulnerable DeFi — Challenge #5 Walkthrough by iphelix](https://iphelix.medium.com/damn-vulnerable-defi-challenge-5-walkthrough-2dd516735ad6)
   * [Damn Vulnerable DeFi — Challenge #6 Walkthrough by iphelix](https://iphelix.medium.com/damn-vulnerable-defi-challenge-6-walkthrough-63c7584e5240)
   * [Damn Vulnerable DeFi — Challenge #7 Walkthrough by iphelix](https://iphelix.medium.com/damn-vulnerable-defi-challenge-7-walkthrough-ee9fac3fdcd4)
+  * [Damn Vulnerable DeFi — Challenge #8 Walkthrough by iphelix](https://iphelix.medium.com/damn-vulnerable-defi-challenge-8-walkthrough-4e0d752d21ab)
   * [Damn Vulnerable DeFi Video Solutions by Smart Contract Programmer](https://www.youtube.com/playlist?list=PLO5VPQH6OWdXKPThrch6U0imGdD3pHLXi)
+  * [Damn Vulnerable DeFi v2 - part #1: Setup and Challenges 1 to 4](https://ventral.digital/posts/2021/11/13/damn-vulnerable-defi-v2-part-1-setup-and-challenges-1-to-4) by patrickd
+  * [Damn Vulnerable DeFi V2 - #5 The Rewarder](https://ventral.digital/posts/2021/12/1/damn-vulnerable-defi-v2-5-the-rewarder) by patrickd
+  * [Damn Vulnerable DeFi V2 - #6 Selfie](https://ventral.digital/posts/2022/2/21/damn-vulnerable-defi-v2-6-selfie) by patrickd
+  * [Damn Vulnerable DeFi V2 - #7 Compromised](https://ventral.digital/posts/2022/2/22/damn-vulnerable-defi-v2-7-compromised) by patrickd
+  * [Damn Vulnerable DeFi V2 - #8 Puppet](https://ventral.digital/posts/2022/2/23/damn-vulnerable-defi-v2-8-puppet) by patrickd
+  * [Damn Vulnerable DeFi V2 - #9 Puppet V2](https://ventral.digital/posts/2022/2/28/damn-vulnerable-defi-v2-9-puppet-v2) by patrickd
 
 * [NCCGroup GOAT Casino](https://github.com/nccgroup/GOATCasino)
 
