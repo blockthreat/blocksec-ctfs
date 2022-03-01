@@ -111,6 +111,9 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
 
 ## CTFs and Writeups
 
+* [Sherlock CTF](https://ctf.sherlock.xyz/scoreboard)
+ * [Solutions](https://github.com/sherlock-protocol/sherlock-ctf-0x0) 
+
 * [The Standoff Digital Art Competition](https://nft.standoff365.com/)
   * [Разбор заданий конкурса на взлом NFT “The Standoff Digital Art”](https://habr.com/ru/company/pt/blog/590301/)
 
