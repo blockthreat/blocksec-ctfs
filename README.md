@@ -56,6 +56,9 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
   * [DeFi Hack solutions: DiscoLP](https://raz0r.name/writeups/defi-hack-solutions-discolp/)
   * [DeFi Hack solutions: May The Force Be With You](https://raz0r.name/writeups/defi-hack-solutions-may-the-force-be-with-you/)
 
+* [Gacha Lab](https://gachalab.inspex.co/)
+  * [How Hackers Can Become “Lucky” in NFT Minting](https://inspexco.medium.com/how-hackers-can-become-lucky-in-nft-minting-822f48d4b917)
+
 ## Challenges and Writeups
 
 * [Immunefi Community Challenges](https://github.com/immunefi-team/community-challenges) by Immunefi
