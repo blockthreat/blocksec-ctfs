@@ -61,6 +61,9 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
 
 ## Challenges and Writeups
 
+* [Hats Finance Challenge](https://github.com/hats-finance/games)
+  * [Solution](https://hatsfinance.medium.com/capture-the-flag-postmortem-bbc1b5afdf2c)
+
 * [Hackxyk Stablecoin Challenge](https://github.com/hacxyk/hackxyk-lab)
   * [Solution](https://gist.github.com/abhishekvispute/b0101938489a8b8dc292e3070c27156e) by Abhishek Vispute
   * [Solution](https://twitter.com/ArbazKiraak/status/1526554729924509697?s=20&t=TGlLp77yDZhUF-BG5OGlnA) by Arbaz Hussain
