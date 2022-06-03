@@ -75,6 +75,8 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
   * [EVM Puzzles – Second Wind](https://ventral.digital/posts/2022/3/12/evm-puzzles-second-wind) by patrickd
 
 * [More EVM puzzles](https://github.com/daltyboy11/more-evm-puzzles#readme)
+  * [Solutions - Part 1](https://ventral.digital/posts/2022/5/24/more-evm-puzzles-part-1) by patrickd
+  * [Solutions - Part 2](https://ventral.digital/posts/2022/5/26/more-evm-puzzles-part-2) by patrickd
 
 * [Solana Security Workshop](https://workshop.neodyme.io/index.html) by Neodyme
   * [Solution](https://github.com/MrToph/neodyme-breakpoint-workshop) by Christoph Michel
