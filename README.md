@@ -61,8 +61,11 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
 
 ## Challenges and Writeups
 
+* [Sol Challenges and Solutions](https://github.com/massun-onibakuchi/sol-challenge#readme)
+
 * [Hats Finance Challenge](https://github.com/hats-finance/games)
   * [Solution](https://hatsfinance.medium.com/capture-the-flag-postmortem-bbc1b5afdf2c)
+  * [Solution](https://merkleplant.xyz/posts/solution-to-hatsfinance-ctf-1)
 
 * [Hackxyk Stablecoin Challenge](https://github.com/hacxyk/hackxyk-lab)
   * [Solution](https://gist.github.com/abhishekvispute/b0101938489a8b8dc292e3070c27156e) by Abhishek Vispute
@@ -73,6 +76,7 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
 * [EVM puzzles](https://github.com/fvictorio/evm-puzzles) by fvictorio
   * [Learning Ethereum Virtual Machine Opcodes With EVM Puzzles](https://ventral.digital/posts/2022/2/24/learning-ethereum-virtual-machine-opcodes-with-evm-puzzles) by patrickd 
   * [EVM Puzzles – Second Wind](https://ventral.digital/posts/2022/3/12/evm-puzzles-second-wind) by patrickd
+  * [Let’s play EVM Puzzles — learning Ethereum EVM while playing!](https://stermi.medium.com/lets-play-evm-puzzles-learning-ethereum-evm-while-playing-43a8354a02b3)
 
 * [More EVM puzzles](https://github.com/daltyboy11/more-evm-puzzles#readme)
   * [Solutions - Part 1](https://ventral.digital/posts/2022/5/24/more-evm-puzzles-part-1) by patrickd
