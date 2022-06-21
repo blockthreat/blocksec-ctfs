@@ -60,6 +60,7 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
   * [How Hackers Can Become “Lucky” in NFT Minting](https://inspexco.medium.com/how-hackers-can-become-lucky-in-nft-minting-822f48d4b917)
 
 ## Challenges and Writeups
+* [Secureum-a-maze-x-challenges](https://github.com/eugenioclrc/secureum-a-maze-x-challenges)
 
 * [Sol Challenges and Solutions](https://github.com/massun-onibakuchi/sol-challenge#readme)
 
