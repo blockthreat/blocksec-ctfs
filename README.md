@@ -111,6 +111,10 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
   * [Damn Vulnerable DeFi V2 - #7 Compromised](https://ventral.digital/posts/2022/2/22/damn-vulnerable-defi-v2-7-compromised) by patrickd
   * [Damn Vulnerable DeFi V2 - #8 Puppet](https://ventral.digital/posts/2022/2/23/damn-vulnerable-defi-v2-8-puppet) by patrickd
   * [Damn Vulnerable DeFi V2 - #9 Puppet V2](https://ventral.digital/posts/2022/2/28/damn-vulnerable-defi-v2-9-puppet-v2) by patrickd
+  * [Damn Vulnerable DeFi V2 - #10 Free Rider](https://ventral.digital/posts/2022/3/2/damn-vulnerable-defi-v2-10-free-rider) by patrickd
+  * [Damn Vulnerable DeFi V2 - #11 Backdoor](https://ventral.digital/posts/2022/6/28/damn-vulnerable-defi-v2-11-backdoor) by patrickd
+  * [Damn Vulnerable DeFi V2 - #12 Climber](https://ventral.digital/posts/2022/6/29/damn-vulnerable-defi-v2-12-climber) by patrickd
+  * [Damn Vulnerable DeFi V2 - #13 Junior Miners](https://ventral.digital/posts/2022/7/2/damn-vulnerable-defi-v2-13-junior-miners) by patrickd
 
 * [NCCGroup GOAT Casino](https://github.com/nccgroup/GOATCasino)
 
