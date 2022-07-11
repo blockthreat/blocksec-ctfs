@@ -31,6 +31,11 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
   * [Ethernaut Lvl 19 MagicNumber Walkthrough: How to deploy contracts using raw assembly opcodes](https://medium.com/coinmonks/ethernaut-lvl-19-magicnumber-walkthrough-how-to-deploy-contracts-using-raw-assembly-opcodes-c50edb0f71a2) by Nicole Zhu
   * [Ethernaut Challenges solutions by Asamartino](https://github.com/Asamartino/EthernautChallenges) - Challenges (0-21)
   * [Ethernaut Challenges solutions by Simon ](https://github.com/STYJ/Ethernaut-Solutions) - Challenges (0-21)
+  * [Ethernaut: Lvl 22 Dex - Writeups](https://medium.com/@this_post/ethernaut-22-dex-writeups-55d4bfa8a7fa) by thispost
+  * [Ethernaut: Lvl 23 Dex Two - Writeups](https://dev.to/nvn/ethernaut-hacks-level-23-dex-two-4424) by Naveen
+  * [Ethernaut: Lvl 24 Puzzle Wallet - Writeups](https://medium.com/@appsbylamby/ethernaut-24-puzzle-wallet-walkthrough-mastering-the-proxy-pattern-cc830dc364ce) by Lamby
+  * [Ethernaut: Lvl 25 Motorbike - Writeups](https://medium.com/@appsbylamby/ethernaut-25-motorbikewalkthrough-3e1feeee6a4c) by Lamby
+  * [Ethernaut: Lvl 26 DoubleEntryPoint - Writeups](https://www.youtube.com/watch?v=aGnC_917YOY) by D-Squared
   * [Ethernaut CTF Level 0 by D-Squared](https://www.youtube.com/watch?v=MaGAVBRwvbg)
   * [Ethernaut CTF Level 1 by D-Squared](https://www.youtube.com/watch?v=i-8cCDajPDQ)
   * [Ethernaut CTF Level 2 by D-Squared](https://www.youtube.com/watch?v=VGbxxdhOWvU)
