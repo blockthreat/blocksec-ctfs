@@ -67,7 +67,9 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
 ## Challenges and Writeups
 * [EthernautDAO Challenges](https://twitter.com/EthernautDAO)
   * [Safe space, a place to be vulnerable](https://mirror.xyz/ethernautdao.eth/-rj5iTdt_GTRNS7aIzJBwqp95UGemxIMzNN-m96Io8Y)
-  * [Solution](https://stermi.medium.com/ethernautdao-ctf-wallet-solution-1793f990c2d5)
+  * [Car Market Solution](https://stermi.medium.com/ethernautdao-ctf-wallet-solution-1793f990c2d5) by StErMi
+  * [Vending Machine Solution](https://stermi.medium.com/ethernautdao-ctf-vending-machine-solution-b30a74ba4a0f) by StErMi
+  * [Wallet Solution](https://stermi.medium.com/ethernautdao-ctf-wallet-solution-7f28bc05c564) by StErMi
 
 * [Secureum-a-maze-x-challenges](https://github.com/eugenioclrc/secureum-a-maze-x-challenges)
 
