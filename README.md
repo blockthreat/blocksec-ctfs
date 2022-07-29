@@ -98,7 +98,7 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
 * [Solana Security Workshop](https://workshop.neodyme.io/index.html) by Neodyme
   * [Solution](https://github.com/MrToph/neodyme-breakpoint-workshop) by Christoph Michel
 
-* [Interview Contracts](https://github.com/HalbornSecurity/InterviewContracts) by Halborn
+* [Interview Contracts](https://github.com/HalbornSecurity/CTFs) by Halborn
 
 * [Pinball Challenge](https://rinkeby.etherscan.io/address/0xffb9205c84d0b209c215212a3cdfc50bf1cfb0e0#code) by samczsun
   * [Solution](https://twitter.com/karmacoma_eth/status/1451625194380939270) by KarmaComa
