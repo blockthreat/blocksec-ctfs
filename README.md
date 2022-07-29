@@ -189,6 +189,7 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
   * [Shilpkaar](https://ciphershastra.com/shilpkaar.html)
   * [UnDeAD](https://ciphershastra.com/UnDeAD.html)
   * [ThirtyFive](https://ciphershastra.com/ThirtyFive.html)
+  * [Maya](https://ciphershastra.com/Maya.html)
 
 * [Donjon CTF](https://donjon-ctf.io/) - 2020
   * [CTF 2020: Capture the Fortress](https://donjon.ledger.com/Capture-the-Fortress/)
