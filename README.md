@@ -44,6 +44,8 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
   * [Ethernaut CTF Level 5 by D-Squared](https://www.youtube.com/watch?v=_ylKN2R_o-Y)
   * [Ethernaut CTF Level 6 by D-Squared](https://www.youtube.com/watch?v=_guLtDn_0_Y)
   * [Ethernaut Brownie Solutions](https://github.com/ptisserand/ethernaut-brownie) by ptisserand
+  * [Ethernaut Truffle Solutions](https://github.com/tinchoabbate/ethernaut-ctf) by tincho
+  * [Ethernaut Hardhat Solutions](https://github.com/MrToph/ethernaut) by MrToph
 
 * [Capture the Ether](https://capturetheether.com/)
   * [Capture the Ether Solutions by cmichel](https://cmichel.io/capture-the-ether-solutions/)
