@@ -73,6 +73,7 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
   * [Car Market Solution](https://stermi.medium.com/ethernautdao-ctf-wallet-solution-1793f990c2d5) by StErMi
   * [Vending Machine Solution](https://stermi.medium.com/ethernautdao-ctf-vending-machine-solution-b30a74ba4a0f) by StErMi
   * [Wallet Solution](https://stermi.medium.com/ethernautdao-ctf-wallet-solution-7f28bc05c564) by StErMi
+  * [EthernautDAO CTF 6 — Hackable Contract Solution](https://stermi.xyz/blog/ethernautdao-ctf-hackable-solution) by StErMi
 
 * [Secureum-a-maze-x-challenges](https://github.com/eugenioclrc/secureum-a-maze-x-challenges)
 
