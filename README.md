@@ -148,6 +148,10 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
 
 * [Challenges by @robot_dreams](https://twitter.com/robot__dreams/status/1479518204036669441)
 
+* [Underhanded Solidity Contest](https://underhanded.soliditylang.org/) 
+  * [Submissions for Underhanded Solidity Contest 2022](https://github.com/ethereum/solidity-underhanded-contest/tree/master/2022/submissions_2022)
+  * [Submissions for Underhanded Solidity Contest 2020](https://github.com/ethereum/solidity-underhanded-contest/tree/master/2020/submissions_2020)
+
 ## CTFs and Writeups
 
 * [Sherlock CTF](https://ctf.sherlock.xyz/scoreboard)
