@@ -75,6 +75,10 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
   * [Wallet Solution](https://stermi.medium.com/ethernautdao-ctf-wallet-solution-7f28bc05c564) by StErMi
   * [EthernautDAO CTF 6 — Hackable Contract Solution](https://stermi.xyz/blog/ethernautdao-ctf-hackable-solution) by StErMi
 
+* [SecDim](https://secdim.com)
+  * [Play - AppSec Games and Challenges](https://play.secdim.com)
+  * [Learn - Git based labs on real world exploits](https://learn.secdim.com)
+
 * [Secureum-a-maze-x-challenges](https://github.com/eugenioclrc/secureum-a-maze-x-challenges)
 
 * [Sol Challenges and Solutions](https://github.com/massun-onibakuchi/sol-challenge#readme)
