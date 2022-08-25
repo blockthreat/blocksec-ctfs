@@ -149,6 +149,9 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
 * [Challenges by @robot_dreams](https://twitter.com/robot__dreams/status/1479518204036669441)
 
 ## CTFs and Writeups
+* [Paradigm CTF 2022](https://ctf.paradigm.xyz/) - 2022
+  * Community Solutions:
+    * [Statemind's solutions(11 solved)](https://hackmd.io/@statemind/HkaYWzG1i)
 
 * [Sherlock CTF](https://ctf.sherlock.xyz/scoreboard)
  * [Solutions](https://github.com/sherlock-protocol/sherlock-ctf-0x0) 
