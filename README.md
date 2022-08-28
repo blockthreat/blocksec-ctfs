@@ -77,6 +77,8 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
 
 * [Secureum-a-maze-x-challenges](https://github.com/eugenioclrc/secureum-a-maze-x-challenges)
 
+* [Secureum A-MAZE-X Stanford](https://github.com/eugenioclrc/DeFi-Security-Summit-Stanford)
+
 * [Sol Challenges and Solutions](https://github.com/massun-onibakuchi/sol-challenge#readme)
 
 * [Hats Finance Challenge](https://github.com/hats-finance/games)
