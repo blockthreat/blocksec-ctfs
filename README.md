@@ -69,6 +69,9 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
 
 ## Challenges and Writeups
 
+* [BalsnCTF](https://balsnctf.com/)
+  * [BalsnCTF 2022 Smart Contract Challenges Writeup](https://github.com/minaminao/ctf-blockchain/blob/main/src/BalsnCTF2022/README.md)
+
 * [CTF Lending](https://github.com/MrToph/ctf-lending) by MrToph
 
 * [EthernautDAO Challenges](https://twitter.com/EthernautDAO)
@@ -85,6 +88,7 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
 * [Secureum-A-MAZE-X](https://github.com/eugenioclrc/secureum-a-maze-x-challenges)
 
 * [Secureum A-MAZE-X Stanford](https://github.com/eugenioclrc/DeFi-Security-Summit-Stanford)
+  * [Secureum A-MAZE-X Stanford CTF](https://ventral.digital/posts/2022/8/27/secureum-a-maze-x-stanford-ctf) by patrickd
 
 * [Sol Challenges and Solutions](https://github.com/massun-onibakuchi/sol-challenge#readme)
 
@@ -166,7 +170,22 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
 ## CTFs and Writeups
 * [Paradigm CTF 2022](https://ctf.paradigm.xyz/) - 2022
   * Community Solutions:
+    * [Paradigm CTF 2022 Write-up](https://hackmd.io/@theori/r1gnaGNks) by The Duck (Theori)
     * [Statemind's solutions(11 solved)](https://hackmd.io/@statemind/HkaYWzG1i)
+    * [Paradigm CTF 2022 Writeup](https://inspexco.medium.com/paradigm-ctf-2022-writeup-2ce290cd9287) by Inspex
+    * [minaminao solutions](https://github.com/minaminao/ctf-blockchain/blob/main/src/ParadigmCTF2022/README.md)
+    * [Kaiziron solutions](https://github.com/Kaiziron/paradigm-ctf-2022-writeup)
+    * [Paradigm CTF 2022: Write-Up Collection](https://philogy.github.io/posts/paradigm-ctf-2022-write-up-collection/#glossary)
+    * [Paradigm CTF 2022 - Electric Sheep](https://ventral.digital/posts/2022/8/22/paradigm-ctf-2022-electric-sheep) by patrickd
+    * [Paradigm CTF 2022 - Trapdooor & Trapdoooor](https://ventral.digital/posts/2022/8/23/paradigm-ctf-2022-trapdooor-amp-trapdoooor) by patrickd
+    * [0xMonaco writeup](https://twitter.com/brockjelmore/status/1562228065446801408) by brock
+    * [0xMonaco #1 place writeup](https://twitter.com/z0age/status/1561685707650990084) by Oage
+    * [0xMonaco writeup](https://abdullathedruid.github.io/0xmonaco.html) by Abdulla
+    * [0xMonaco exploit](https://hackmd.io/@onemanbandplus2/S1Ez1Ulys) by Brock Elmore
+    * [Unlocking the Lockbox2](https://dev.to/zemse/unlocking-the-lockbox2-paradigmctf22-10pn) by Soham Zemse
+    * [Vanity](https://twitter.com/danielvf/status/1561508004423471104) by Daniel Von Fange
+    * [Merkledrop and Vanity](https://github.com/iFrostizz/paradigm-ctf-2022) by iFrostizz
+    
 
 * [Sherlock CTF](https://ctf.sherlock.xyz/scoreboard)
  * [Solutions](https://github.com/sherlock-protocol/sherlock-ctf-0x0) 
