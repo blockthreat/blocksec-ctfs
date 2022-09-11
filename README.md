@@ -46,6 +46,9 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
   * [Ethernaut Brownie Solutions](https://github.com/ptisserand/ethernaut-brownie) by ptisserand
   * [Ethernaut Truffle Solutions](https://github.com/tinchoabbate/ethernaut-ctf) by tincho
   * [Ethernaut Hardhat Solutions](https://github.com/MrToph/ethernaut) by MrToph
+  * [Ethernaut-x-Foundry Solutions](https://github.com/ciaranmcveigh5/ethernaut-x-foundry) by ciaranmcveigh5
+  * [Ethernaut CTF - Foundry Edition](https://github.com/StErMi/foundry-ethernaut) by StErMi
+  * [Ethernaut x Foundry - 0x0 Hello Ethernaut](https://blog.0xeval.me/ethernaut-x-foundry-0x0-hello-ethernaut) by 0xeval
 
 * [Capture the Ether](https://capturetheether.com/)
   * [Capture the Ether Solutions by cmichel](https://cmichel.io/capture-the-ether-solutions/)
@@ -185,6 +188,10 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
     * [Unlocking the Lockbox2](https://dev.to/zemse/unlocking-the-lockbox2-paradigmctf22-10pn) by Soham Zemse
     * [Vanity](https://twitter.com/danielvf/status/1561508004423471104) by Daniel Von Fange
     * [Merkledrop and Vanity](https://github.com/iFrostizz/paradigm-ctf-2022) by iFrostizz
+    * [PARADIGM CTF 2022 Question Analysis 1 — RESUCE](https://medium.com/numen-cyber-labs/paradigm-ctf-2022-question-analysis-1-resuce-946b3edadd0c) by Numen Cyber Labs
+    * [PARADIGM CTF 2022 Question Analysis 2 — Source Code Analysis](https://medium.com/numen-cyber-labs/paradigm-ctf-2022-question-analysis-2-source-code-analysis-1d0427ca5a7a) by Numen Cyber Labs
+    * [PARADIGM CTF 2022 Question Analysis 3 - Lockbox2 Analysis](https://medium.com/numen-cyber-labs/paradigm-ctf-2022-question-analysis-3-lockbox2-analysis-3f61b4a0f872) by Numen Cyber Labs
+    * [PARADIGM CTF 2022 Question Analysis 4 -MerkleDrop](https://medium.com/numen-cyber-labs/paradigm-ctf-2022-question-analysis-4-merkledrop-b857c9f7eb19) by Numen Cyber Labs
     
 
 * [Sherlock CTF](https://ctf.sherlock.xyz/scoreboard)
