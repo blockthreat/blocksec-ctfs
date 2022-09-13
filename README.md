@@ -36,6 +36,7 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
   * [Ethernaut: Lvl 24 Puzzle Wallet - Writeups](https://medium.com/@appsbylamby/ethernaut-24-puzzle-wallet-walkthrough-mastering-the-proxy-pattern-cc830dc364ce) by Lamby
   * [Ethernaut: Lvl 25 Motorbike - Writeups](https://medium.com/@appsbylamby/ethernaut-25-motorbikewalkthrough-3e1feeee6a4c) by Lamby
   * [Ethernaut: Lvl 26 DoubleEntryPoint - Writeups](https://www.youtube.com/watch?v=aGnC_917YOY) by D-Squared
+  * [Ethernaut Lvl 27 Good Samaritan Walkthrough: Custom Errors in Solidity](https://medium.com/@Mcverick/ethernaut-lvl-27-good-samaritan-walkthrough-custom-errors-in-solidity-17c7e20fb58a) by Chirag Agarwal
   * [Ethernaut CTF Level 0 by D-Squared](https://www.youtube.com/watch?v=MaGAVBRwvbg)
   * [Ethernaut CTF Level 1 by D-Squared](https://www.youtube.com/watch?v=i-8cCDajPDQ)
   * [Ethernaut CTF Level 2 by D-Squared](https://www.youtube.com/watch?v=VGbxxdhOWvU)
