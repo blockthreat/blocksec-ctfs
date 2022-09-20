@@ -4,6 +4,7 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
 ## Wargames and Writeups
 
 * [Ethernaut](https://ethernaut.openzeppelin.com/)
+  * [Ethernaut Solutions by Aniket21mathur](https://github.com/Aniket21mathur/Ethernaut-Solutions) - Challenges 0-25
   * [Ethernaut Solutions by cmichel](https://cmichel.io/ethernaut-solutions/) - Challenges 0-21
   * [Ethernaut Writeups by Macmod](https://github.com/Macmod/ethernaut-writeups) - Challenges 0-9
   * [Ethernaut Solutions by tsauvajon](https://github.com/tsauvajon/ethernaut) - Challenges 1-11
