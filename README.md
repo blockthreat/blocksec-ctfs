@@ -79,12 +79,19 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
 
 * [CTF Lending](https://github.com/MrToph/ctf-lending) by MrToph
 
+
 * [EthernautDAO Challenges](https://twitter.com/EthernautDAO)
-  * [Safe space, a place to be vulnerable](https://mirror.xyz/ethernautdao.eth/-rj5iTdt_GTRNS7aIzJBwqp95UGemxIMzNN-m96Io8Y)
-  * [Car Market Solution](https://stermi.medium.com/ethernautdao-ctf-wallet-solution-1793f990c2d5) by StErMi
-  * [Vending Machine Solution](https://stermi.medium.com/ethernautdao-ctf-vending-machine-solution-b30a74ba4a0f) by StErMi
-  * [Wallet Solution](https://stermi.medium.com/ethernautdao-ctf-wallet-solution-7f28bc05c564) by StErMi
-  * [EthernautDAO CTF 6 — Hackable Contract Solution](https://stermi.xyz/blog/ethernautdao-ctf-hackable-solution) by StErMi
+  * [List of all challenges and solutions](https://github.com/romeroadrian/ethernaut-dao-ctf)
+  * [List of challenges with solutions and writeups from beskay](https://github.com/beskay/solidity-challenges)
+  * [CTF Level 1: PrivateData - Writeup](https://mirror.xyz/ethernautdao.eth/mxnAUuwRX6h42jubCzF_9-Tbsp14uH_eQ3xyEn4jF7w) by Giovannidisiena.eth
+  * [CTF Level 2: Wallet - Writeup](https://stermi.medium.com/ethernautdao-ctf-wallet-solution-7f28bc05c564) by StErMi
+  * [CTF Level 3: Car Market - Writeup](https://stermi.medium.com/ethernautdao-ctf-wallet-solution-1793f990c2d5) by StErMi
+  * [CTF Level 4: Vending Machine - Writeup](https://stermi.medium.com/ethernautdao-ctf-vending-machine-solution-b30a74ba4a0f) by StErMi
+  * [CTF Level 6: Hackable Contract - Writeup](https://stermi.xyz/blog/ethernautdao-ctf-hackable-solution) by StErMi
+  * [CTF Level 8: VNFT - Writeup](https://github.com/beskay/solidity-challenges/blob/main/writeups/VNFT.md) by beskay
+  * [CTF Level 9: EtherWallet - Writeup](https://github.com/beskay/solidity-challenges/blob/main/writeups/EtherWallet.md) by beskay
+  * [CTF Level 10: Vault - Writeup](https://github.com/beskay/solidity-challenges/blob/main/writeups/Vault.md) by beskay
+  * [CTF Level 11: Staking - Writeup](https://github.com/beskay/solidity-challenges/blob/main/writeups/Staking.md) by beskay
 
 * [SecDim](https://secdim.com)
   * [Play - AppSec Games and Challenges](https://play.secdim.com)
