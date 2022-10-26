@@ -201,6 +201,7 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
     * [PARADIGM CTF 2022 Question Analysis 2 — Source Code Analysis](https://medium.com/numen-cyber-labs/paradigm-ctf-2022-question-analysis-2-source-code-analysis-1d0427ca5a7a) by Numen Cyber Labs
     * [PARADIGM CTF 2022 Question Analysis 3 - Lockbox2 Analysis](https://medium.com/numen-cyber-labs/paradigm-ctf-2022-question-analysis-3-lockbox2-analysis-3f61b4a0f872) by Numen Cyber Labs
     * [PARADIGM CTF 2022 Question Analysis 4 -MerkleDrop](https://medium.com/numen-cyber-labs/paradigm-ctf-2022-question-analysis-4-merkledrop-b857c9f7eb19) by Numen Cyber Labs
+    * [Electric Sheep - Stealing gas tokens from the GSN-enabled MultiSig](https://blog.decurity.io/stealing-gas-tokens-from-the-gsn-enabled-multisig/) by Decurity
     
 
 * [Sherlock CTF](https://ctf.sherlock.xyz/scoreboard)
