@@ -278,6 +278,7 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
   * [Challenge files and Solution](https://gist.github.com/LiveOverflow/21c8a505ca176e5bb20bc94eb23acdf1) by LiveOverflow
   * [Ethereum Smart Contract Code Review #1 - Real World CTF 2018](https://www.youtube.com/watch?v=ozqOlUVKL1s) by LiveOverflow
   * [Jump Oriented Programming: Ethereum Smart Contract #2 - Real World CTF 2018](https://www.youtube.com/watch?v=RfL3FcnVbJg) by LiveOverflow
+  * [Ethereum Smart Contract Backdoored Using Malicious Constructor](https://www.youtube.com/watch?v=WP-EnGhIYEc) by LiveOverflow
   
 * Authio Solidity CTF
   * Challenges:
