@@ -74,6 +74,9 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
 
 ## Challenges and Writeups
 
+* [I Am The Optimizer]()
+  * [Solution](https://twitter.com/noahcitron/status/1580359718341484544) by NoahCitron.
+
 * [BalsnCTF](https://balsnctf.com/)
   * [BalsnCTF 2022 Smart Contract Challenges Writeup](https://github.com/minaminao/ctf-blockchain/blob/main/src/BalsnCTF2022/README.md)
 
