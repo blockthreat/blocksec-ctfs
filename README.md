@@ -75,6 +75,7 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
 ## Challenges and Writeups
 
 * [I Am The Optimizer]()
+  * [Solution](https://www.rileyholterhus.com/writing/optimizor) by Riley Holterhus.
   * [Solution](https://twitter.com/noahcitron/status/1580359718341484544) by NoahCitron.
 
 * [BalsnCTF](https://balsnctf.com/)
