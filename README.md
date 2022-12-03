@@ -4,6 +4,7 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
 ## Wargames and Writeups
 
 * [Ethernaut](https://ethernaut.openzeppelin.com/)
+  * [Ethernaut CTF Series - All Things Security](https://blog.dixitaditya.com/series/ethernaut) - Solutions in Solidity and Foundry by Aditya Dixit
   * [Ethernaut Solutions by Aniket21mathur](https://github.com/Aniket21mathur/Ethernaut-Solutions) - Challenges 0-25
   * [Ethernaut Solutions by cmichel](https://cmichel.io/ethernaut-solutions/) - Challenges 0-21
   * [Ethernaut Writeups by Macmod](https://github.com/Macmod/ethernaut-writeups) - Challenges 0-9
