@@ -185,6 +185,10 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
   * [Submissions for Underhanded Solidity Contest 2020](https://github.com/ethereum/solidity-underhanded-contest/tree/master/2020/submissions_2020)
 
 ## CTFs and Writeups
+
+* [N1CTF 2022]()
+  * [N1CTF 2022 Solana Challenges Writeups](https://lkmidas.github.io/posts/20221128-n1ctf2022-writeups/)
+
 * [Paradigm CTF 2022](https://ctf.paradigm.xyz/) - 2022
   * Community Solutions:
     * [Paradigm CTF 2022 Write-up](https://hackmd.io/@theori/r1gnaGNks) by The Duck (Theori)
