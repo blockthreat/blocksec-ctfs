@@ -75,6 +75,9 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
 
 ## Challenges and Writeups
 
+* [Bountiful: Fe Challenge](https://blog.fe-lang.org/posts/bountiful-break-things-and-get-paid/)
+  * [Solution](https://twitter.com/plotchy/status/1600894668304105474) by Plotchy.
+
 * [I Am The Optimizer]()
   * [Solution](https://www.rileyholterhus.com/writing/optimizor) by Riley Holterhus.
   * [Solution](https://twitter.com/noahcitron/status/1580359718341484544) by NoahCitron.
