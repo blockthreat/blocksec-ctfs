@@ -76,7 +76,6 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
   * [Damn Vulnerable DeFi V2 - #12 Climber](https://ventral.digital/posts/2022/6/29/damn-vulnerable-defi-v2-12-climber) by patrickd
   * [Damn Vulnerable DeFi V2 - #13 Junior Miners](https://ventral.digital/posts/2022/7/2/damn-vulnerable-defi-v2-13-junior-miners) by patrickd
 
-
 * [Mr Steal Yo Crypto](https://mrstealyocrypto.xyz/)
 
 * [Capture the Ether](https://capturetheether.com/)
@@ -100,6 +99,8 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
   * [How Hackers Can Become “Lucky” in NFT Minting](https://inspexco.medium.com/how-hackers-can-become-lucky-in-nft-minting-822f48d4b917)
 
 ## Challenges and Writeups
+
+* [HappyNewYearCTF](https://twitter.com/0x796/status/1610620331387158531) by Convergence Boy
 
 * [Bountiful: Fe Challenge](https://blog.fe-lang.org/posts/bountiful-break-things-and-get-paid/)
   * [Solution](https://twitter.com/plotchy/status/1600894668304105474) by Plotchy.
