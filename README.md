@@ -101,6 +101,7 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
 ## Challenges and Writeups
 
 * [HappyNewYearCTF](https://twitter.com/0x796/status/1610620331387158531) by Convergence Boy
+  * [Making of HappyNewYear CTF Puzzle](https://mirror.xyz/vicnaum.eth/reNCgNs7e0rDNx7h8Yt0a9xbS7wFss4950Dl8tYr2kY) by Convergence Boy
 
 * [Bountiful: Fe Challenge](https://blog.fe-lang.org/posts/bountiful-break-things-and-get-paid/)
   * [Solution](https://twitter.com/plotchy/status/1600894668304105474) by Plotchy.
