@@ -53,6 +53,32 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
   * [Ethernaut CTF - Foundry Edition](https://github.com/StErMi/foundry-ethernaut) by StErMi
   * [Ethernaut x Foundry - 0x0 Hello Ethernaut](https://blog.0xeval.me/ethernaut-x-foundry-0x0-hello-ethernaut) by 0xeval
 
+* [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz/)
+  * [Damn Vulnerable DeFi Solutions by cmichel](https://cmichel.io/damn-vulnerable-de-fi-solutions/)
+  * [Write-ups and lessons learned from Damn Vulnerable #DeFi by Damian Rusinek](https://drdr-zz.medium.com/write-ups-and-lessons-learned-from-damn-vulnerable-defi-caa95d2678ec)
+  * [Damn Vulnerable DeFi — Setup and Challenge #1 Walkthrough by iphelix](https://iphelix.medium.com/damn-vulnerable-defi-setup-and-challenge-1-walkthrough-1ea16ea09709)
+  * [Damn Vulnerable DeFi — Challenge #2 Walkthrough by iphelix](https://iphelix.medium.com/damn-vulnerable-defi-challenge-2-walkthrough-c2a7eac3374d)
+  * [Damn Vulnerable DeFi — Challenge #3 Walkthrough by iphelix](https://iphelix.medium.com/damn-vulnerable-defi-challenge-3-walkthrough-fe8e9c8e36f3)
+  * [Damn Vulnerable DeFi — Challenge #4 Walkthrough by iphelix](https://iphelix.medium.com/damn-vulnerable-defi-challenge-4-walkthrough-881f7f12f118)
+  * [Damn Vulnerable DeFi — Challenge #5 Walkthrough by iphelix](https://iphelix.medium.com/damn-vulnerable-defi-challenge-5-walkthrough-2dd516735ad6)
+  * [Damn Vulnerable DeFi — Challenge #6 Walkthrough by iphelix](https://iphelix.medium.com/damn-vulnerable-defi-challenge-6-walkthrough-63c7584e5240)
+  * [Damn Vulnerable DeFi — Challenge #7 Walkthrough by iphelix](https://iphelix.medium.com/damn-vulnerable-defi-challenge-7-walkthrough-ee9fac3fdcd4)
+  * [Damn Vulnerable DeFi — Challenge #8 Walkthrough by iphelix](https://iphelix.medium.com/damn-vulnerable-defi-challenge-8-walkthrough-4e0d752d21ab)
+  * [Damn Vulnerable DeFi Video Solutions by Smart Contract Programmer](https://www.youtube.com/playlist?list=PLO5VPQH6OWdXKPThrch6U0imGdD3pHLXi)
+  * [Damn Vulnerable DeFi v2 - part #1: Setup and Challenges 1 to 4](https://ventral.digital/posts/2021/11/13/damn-vulnerable-defi-v2-part-1-setup-and-challenges-1-to-4) by patrickd
+  * [Damn Vulnerable DeFi V2 - #5 The Rewarder](https://ventral.digital/posts/2021/12/1/damn-vulnerable-defi-v2-5-the-rewarder) by patrickd
+  * [Damn Vulnerable DeFi V2 - #6 Selfie](https://ventral.digital/posts/2022/2/21/damn-vulnerable-defi-v2-6-selfie) by patrickd
+  * [Damn Vulnerable DeFi V2 - #7 Compromised](https://ventral.digital/posts/2022/2/22/damn-vulnerable-defi-v2-7-compromised) by patrickd
+  * [Damn Vulnerable DeFi V2 - #8 Puppet](https://ventral.digital/posts/2022/2/23/damn-vulnerable-defi-v2-8-puppet) by patrickd
+  * [Damn Vulnerable DeFi V2 - #9 Puppet V2](https://ventral.digital/posts/2022/2/28/damn-vulnerable-defi-v2-9-puppet-v2) by patrickd
+  * [Damn Vulnerable DeFi V2 - #10 Free Rider](https://ventral.digital/posts/2022/3/2/damn-vulnerable-defi-v2-10-free-rider) by patrickd
+  * [Damn Vulnerable DeFi V2 - #11 Backdoor](https://ventral.digital/posts/2022/6/28/damn-vulnerable-defi-v2-11-backdoor) by patrickd
+  * [Damn Vulnerable DeFi V2 - #12 Climber](https://ventral.digital/posts/2022/6/29/damn-vulnerable-defi-v2-12-climber) by patrickd
+  * [Damn Vulnerable DeFi V2 - #13 Junior Miners](https://ventral.digital/posts/2022/7/2/damn-vulnerable-defi-v2-13-junior-miners) by patrickd
+
+
+* [Mr Steal Yo Crypto](https://mrstealyocrypto.xyz/)
+
 * [Capture the Ether](https://capturetheether.com/)
   * [Capture the Ether Solutions by cmichel](https://cmichel.io/capture-the-ether-solutions/)
   * [Capture the Ether Solution](https://www.rphad.com/en/blog/2021/12/30/) by RD
@@ -158,28 +184,7 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
   * [Solution](https://twitter.com/adietrichs/status/1452040913140822020?s=20) by adietrichs
   * [Solution](https://medium.com/@kanewallmann_71759/an-untrustworthy-pinball-machine-d9dcd07882c) by Kane Wallmann
 
-* [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz/)
-  * [Damn Vulnerable DeFi Solutions by cmichel](https://cmichel.io/damn-vulnerable-de-fi-solutions/)
-  * [Write-ups and lessons learned from Damn Vulnerable #DeFi by Damian Rusinek](https://drdr-zz.medium.com/write-ups-and-lessons-learned-from-damn-vulnerable-defi-caa95d2678ec)
-  * [Damn Vulnerable DeFi — Setup and Challenge #1 Walkthrough by iphelix](https://iphelix.medium.com/damn-vulnerable-defi-setup-and-challenge-1-walkthrough-1ea16ea09709)
-  * [Damn Vulnerable DeFi — Challenge #2 Walkthrough by iphelix](https://iphelix.medium.com/damn-vulnerable-defi-challenge-2-walkthrough-c2a7eac3374d)
-  * [Damn Vulnerable DeFi — Challenge #3 Walkthrough by iphelix](https://iphelix.medium.com/damn-vulnerable-defi-challenge-3-walkthrough-fe8e9c8e36f3)
-  * [Damn Vulnerable DeFi — Challenge #4 Walkthrough by iphelix](https://iphelix.medium.com/damn-vulnerable-defi-challenge-4-walkthrough-881f7f12f118)
-  * [Damn Vulnerable DeFi — Challenge #5 Walkthrough by iphelix](https://iphelix.medium.com/damn-vulnerable-defi-challenge-5-walkthrough-2dd516735ad6)
-  * [Damn Vulnerable DeFi — Challenge #6 Walkthrough by iphelix](https://iphelix.medium.com/damn-vulnerable-defi-challenge-6-walkthrough-63c7584e5240)
-  * [Damn Vulnerable DeFi — Challenge #7 Walkthrough by iphelix](https://iphelix.medium.com/damn-vulnerable-defi-challenge-7-walkthrough-ee9fac3fdcd4)
-  * [Damn Vulnerable DeFi — Challenge #8 Walkthrough by iphelix](https://iphelix.medium.com/damn-vulnerable-defi-challenge-8-walkthrough-4e0d752d21ab)
-  * [Damn Vulnerable DeFi Video Solutions by Smart Contract Programmer](https://www.youtube.com/playlist?list=PLO5VPQH6OWdXKPThrch6U0imGdD3pHLXi)
-  * [Damn Vulnerable DeFi v2 - part #1: Setup and Challenges 1 to 4](https://ventral.digital/posts/2021/11/13/damn-vulnerable-defi-v2-part-1-setup-and-challenges-1-to-4) by patrickd
-  * [Damn Vulnerable DeFi V2 - #5 The Rewarder](https://ventral.digital/posts/2021/12/1/damn-vulnerable-defi-v2-5-the-rewarder) by patrickd
-  * [Damn Vulnerable DeFi V2 - #6 Selfie](https://ventral.digital/posts/2022/2/21/damn-vulnerable-defi-v2-6-selfie) by patrickd
-  * [Damn Vulnerable DeFi V2 - #7 Compromised](https://ventral.digital/posts/2022/2/22/damn-vulnerable-defi-v2-7-compromised) by patrickd
-  * [Damn Vulnerable DeFi V2 - #8 Puppet](https://ventral.digital/posts/2022/2/23/damn-vulnerable-defi-v2-8-puppet) by patrickd
-  * [Damn Vulnerable DeFi V2 - #9 Puppet V2](https://ventral.digital/posts/2022/2/28/damn-vulnerable-defi-v2-9-puppet-v2) by patrickd
-  * [Damn Vulnerable DeFi V2 - #10 Free Rider](https://ventral.digital/posts/2022/3/2/damn-vulnerable-defi-v2-10-free-rider) by patrickd
-  * [Damn Vulnerable DeFi V2 - #11 Backdoor](https://ventral.digital/posts/2022/6/28/damn-vulnerable-defi-v2-11-backdoor) by patrickd
-  * [Damn Vulnerable DeFi V2 - #12 Climber](https://ventral.digital/posts/2022/6/29/damn-vulnerable-defi-v2-12-climber) by patrickd
-  * [Damn Vulnerable DeFi V2 - #13 Junior Miners](https://ventral.digital/posts/2022/7/2/damn-vulnerable-defi-v2-13-junior-miners) by patrickd
+
 
 * [NCCGroup GOAT Casino](https://github.com/nccgroup/GOATCasino)
 
