@@ -106,6 +106,11 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
   * [Learn - Git based labs on real world exploits](https://learn.secdim.com)
 
 * [Secureum-A-MAZE-X](https://github.com/eugenioclrc/secureum-a-maze-x-challenges)
+  * [A-MAZE-X CTF Walkthrough | Part I](https://medium.com/@mattaereal/amaze-x-ctf-walkthrough-part-i-cdd3a5292a14) by Matias
+  * [A-MAZE-X CTF Walkthrough | Part II](https://medium.com/@mattaereal/a-maze-x-ctf-walkthrough-part-ii-c4d3dcc6f700) by Matias
+  * [A-MAZE-X CTF Walkthrough | Part III](https://medium.com/@mattaereal/a-maze-x-ctf-walkthrough-part-iii-dd8997b7b5bf) by Matias
+  * [A-MAZE-X CTF Walkthrough | Part IV](https://medium.com/@mattaereal/a-maze-x-ctf-walkthrough-part-iv-last-407f5de236f8) by Matias
+  
 
 * [Secureum A-MAZE-X Stanford](https://github.com/eugenioclrc/DeFi-Security-Summit-Stanford)
   * [Secureum A-MAZE-X Stanford CTF](https://ventral.digital/posts/2022/8/27/secureum-a-maze-x-stanford-ctf) by patrickd
@@ -126,10 +131,14 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
   * [Learning Ethereum Virtual Machine Opcodes With EVM Puzzles](https://ventral.digital/posts/2022/2/24/learning-ethereum-virtual-machine-opcodes-with-evm-puzzles) by patrickd 
   * [EVM Puzzles – Second Wind](https://ventral.digital/posts/2022/3/12/evm-puzzles-second-wind) by patrickd
   * [Let’s play EVM Puzzles — learning Ethereum EVM while playing!](https://stermi.medium.com/lets-play-evm-puzzles-learning-ethereum-evm-while-playing-43a8354a02b3)
+  * [Solving more-evm-puzzles differently? | Part I](https://medium.com/@mattaereal/solving-more-evm-puzzles-differently-part-i-170f2516b88d) by Matias
+  * [Solving more-evm-puzzles differently? | Part II](https://medium.com/@mattaereal/solving-more-evm-puzzles-differently-part-ii-c0bd900d19d8) by Matias
+  * [Yet another evm puzzle](https://medium.com/@mattaereal/yet-another-evm-puzzle-787c83b67a75) by Matias
 
 * [More EVM puzzles](https://github.com/daltyboy11/more-evm-puzzles#readme)
   * [Solutions - Part 1](https://ventral.digital/posts/2022/5/24/more-evm-puzzles-part-1) by patrickd
   * [Solutions - Part 2](https://ventral.digital/posts/2022/5/26/more-evm-puzzles-part-2) by patrickd
+  
 
 * [Solana Security Workshop](https://workshop.neodyme.io/index.html) by Neodyme
   * [Solution](https://github.com/MrToph/neodyme-breakpoint-workshop) by Christoph Michel
