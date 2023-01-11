@@ -134,6 +134,11 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
   * [Solving more-evm-puzzles differently? | Part I](https://medium.com/@mattaereal/solving-more-evm-puzzles-differently-part-i-170f2516b88d) by Matias
   * [Solving more-evm-puzzles differently? | Part II](https://medium.com/@mattaereal/solving-more-evm-puzzles-differently-part-ii-c0bd900d19d8) by Matias
   * [Yet another evm puzzle](https://medium.com/@mattaereal/yet-another-evm-puzzle-787c83b67a75) by Matias
+  * [Write-ups for yet another EVM puzzle1](https://coinsbench.com/write-ups-for-yet-another-evm-puzzle1-d2f9594b9d20) by 0xNorman
+  * [Write-up for yet another EVM puzzle2](https://coinsbench.com/write-up-for-yet-another-evm-puzzle2-1c769e22ab0b) by 0xNorman
+  * [Write-up for yet another EVM puzzle3](https://coinsbench.com/write-up-for-yet-another-evm-puzzle3-69a4f56f2888) by 0xNorman
+  * [Write-up for yet EVM puzzle4](https://coinsbench.com/write-up-for-yet-evm-puzzle4-92381aade135) by 0xNorman
+  * [Write-up for yet another EVM puzzle5](https://coinsbench.com/write-up-for-yet-another-evm-puzzle5-76033711a562) by 0xNorman
 
 * [More EVM puzzles](https://github.com/daltyboy11/more-evm-puzzles#readme)
   * [Solutions - Part 1](https://ventral.digital/posts/2022/5/24/more-evm-puzzles-part-1) by patrickd
