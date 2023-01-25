@@ -77,6 +77,7 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
   * [Damn Vulnerable DeFi V2 - #13 Junior Miners](https://ventral.digital/posts/2022/7/2/damn-vulnerable-defi-v2-13-junior-miners) by patrickd
 
 * [Mr Steal Yo Crypto](https://mrstealyocrypto.xyz/)
+  * [Mr Steal Yo Crypto Primer & Hints](https://degenjungle.substack.com/p/mr-steal-yo-crypto-wargame) by 0xToshii
 
 * [Capture the Ether](https://capturetheether.com/)
   * [Capture the Ether Solutions by cmichel](https://cmichel.io/capture-the-ether-solutions/)
@@ -92,6 +93,7 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
   * [Sherlock Writeup](https://razzor-writes.medium.com/sherlock-writeup-1fb5521ecd3a) by Razzor
 
 * [DeFi Hack](https://defihack.xyz/)
+  * [DeFi Hack Hints & Hardhat Implementation](https://0xtoshii.medium.com/defi-hack-ctf-hints-local-hardhat-implementation-7a227ebafa64) by 0xToshii
   * [DeFi Hack solutions: DiscoLP](https://raz0r.name/writeups/defi-hack-solutions-discolp/)
   * [DeFi Hack solutions: May The Force Be With You](https://raz0r.name/writeups/defi-hack-solutions-may-the-force-be-with-you/)
 
