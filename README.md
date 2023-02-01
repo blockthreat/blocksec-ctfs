@@ -77,6 +77,8 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
   * [Damn Vulnerable DeFi V2 - #12 Climber](https://ventral.digital/posts/2022/6/29/damn-vulnerable-defi-v2-12-climber) by patrickd
   * [Damn Vulnerable DeFi V2 - #13 Junior Miners](https://ventral.digital/posts/2022/7/2/damn-vulnerable-defi-v2-13-junior-miners) by patrickd
 
+* [MevSec CTF](https://ctf.mevsec.com/)
+
 * [Mr Steal Yo Crypto](https://mrstealyocrypto.xyz/)
   * [Mr Steal Yo Crypto Primer & Hints](https://degenjungle.substack.com/p/mr-steal-yo-crypto-wargame) by 0xToshii
 
