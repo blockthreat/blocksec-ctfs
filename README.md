@@ -147,6 +147,7 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
 
 * Secureum Bootcamp
   * [RACE #13 Of The Secureum Bootcamp Epoch∞](https://ventral.digital/posts/2023/1/3/race-13-of-the-secureum-bootcamp-epoch) by patrickd
+  * [RACE #14 Of The Secureum Bootcamp Epoch∞](https://ventral.digital/posts/2023/1/30/race-14-of-the-secureum-bootcamp-epoch-infinity) by patrickd
 
 * [Sol Challenges and Solutions](https://github.com/massun-onibakuchi/sol-challenge#readme)
 
