@@ -54,6 +54,7 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
   * [Ethernaut x Foundry - 0x0 Hello Ethernaut](https://blog.0xeval.me/ethernaut-x-foundry-0x0-hello-ethernaut) by 0xeval
 
 * [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz/)
+  * [DamnVulnerableDefi ABI smuggling challenge walkthrough (plus infographic)](https://medium.com/@mattaereal/damnvulnerabledefi-abi-smuggling-challenge-walkthrough-plus-infographic-7098855d49a) by ᴍatías Λereal Λeón
   * [Damn Vulnerable DeFi Solutions by cmichel](https://cmichel.io/damn-vulnerable-de-fi-solutions/)
   * [Write-ups and lessons learned from Damn Vulnerable #DeFi by Damian Rusinek](https://drdr-zz.medium.com/write-ups-and-lessons-learned-from-damn-vulnerable-defi-caa95d2678ec)
   * [Damn Vulnerable DeFi — Setup and Challenge #1 Walkthrough by iphelix](https://iphelix.medium.com/damn-vulnerable-defi-setup-and-challenge-1-walkthrough-1ea16ea09709)
