@@ -4,6 +4,7 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
 ## Wargames and Writeups
 
 * [Ethernaut](https://ethernaut.openzeppelin.com/)
+  * [Ethernaut-CTF Solutions using Ape and Vyper](https://github.com/0xJCN/Ethernaut-CTF) by 0xJCN
   * [Ethernaut CTF Series - All Things Security](https://blog.dixitaditya.com/series/ethernaut) - Solutions in Solidity and Foundry by Aditya Dixit
   * [Ethernaut Solutions by Aniket21mathur](https://github.com/Aniket21mathur/Ethernaut-Solutions) - Challenges 0-25
   * [Ethernaut Solutions by cmichel](https://cmichel.io/ethernaut-solutions/) - Challenges 0-21
@@ -54,6 +55,7 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
   * [Ethernaut x Foundry - 0x0 Hello Ethernaut](https://blog.0xeval.me/ethernaut-x-foundry-0x0-hello-ethernaut) by 0xeval
 
 * [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz/)
+  * [DamnVulneraDeFi Solutions using Ape and Vyper](https://github.com/0xJCN/Damn-Vulnerable-DeFi-V3-CTF) by 0xJCN
   * [DamnVulnerableDefi ABI smuggling challenge walkthrough (plus infographic)](https://medium.com/@mattaereal/damnvulnerabledefi-abi-smuggling-challenge-walkthrough-plus-infographic-7098855d49a) by ᴍatías Λereal Λeón
   * [Damn Vulnerable DeFi Solutions by cmichel](https://cmichel.io/damn-vulnerable-de-fi-solutions/)
   * [Write-ups and lessons learned from Damn Vulnerable #DeFi by Damian Rusinek](https://drdr-zz.medium.com/write-ups-and-lessons-learned-from-damn-vulnerable-defi-caa95d2678ec)
@@ -122,6 +124,7 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
 
 
 * [EthernautDAO Challenges](https://twitter.com/EthernautDAO)
+  * [EthernautDAO Solutions using Ape and Vyper](https://github.com/0xJCN/EthernautDAO-Challenges) by 0xJCN
   * [List of all challenges and solutions](https://github.com/romeroadrian/ethernaut-dao-ctf)
   * [List of challenges with solutions and writeups from beskay](https://github.com/beskay/solidity-challenges)
   * [CTF Level 1: PrivateData - Writeup](https://mirror.xyz/ethernautdao.eth/mxnAUuwRX6h42jubCzF_9-Tbsp14uH_eQ3xyEn4jF7w) by Giovannidisiena.eth
