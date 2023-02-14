@@ -79,10 +79,14 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
   * [Damn Vulnerable DeFi V2 - #12 Climber](https://ventral.digital/posts/2022/6/29/damn-vulnerable-defi-v2-12-climber) by patrickd
   * [Damn Vulnerable DeFi V2 - #13 Junior Miners](https://ventral.digital/posts/2022/7/2/damn-vulnerable-defi-v2-13-junior-miners) by patrickd
 
+
+* [Boutiful](https://blog.fe-lang.org/posts/bountiful-round-2/)
+
 * [MevSec CTF](https://ctf.mevsec.com/)
 
 * [Mr Steal Yo Crypto](https://mrstealyocrypto.xyz/)
   * [Mr Steal Yo Crypto Primer & Hints](https://degenjungle.substack.com/p/mr-steal-yo-crypto-wargame) by 0xToshii
+  * [Mr Steal Yo Crypto Foundry](https://github.com/0xToshii/mr-steal-yo-crypto-ctf-foundry) by 0xToshii
 
 * [Capture the Ether](https://capturetheether.com/)
   * [Capture the Ether Solutions by cmichel](https://cmichel.io/capture-the-ether-solutions/)
@@ -221,6 +225,9 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
   * [Submissions for Underhanded Solidity Contest 2020](https://github.com/ethereum/solidity-underhanded-contest/tree/master/2020/submissions_2020)
 
 ## CTFs and Writeups
+
+* [LA CTF 2023](https://lactf.uclaacm.com/)
+  * [LA CTF 2023 Writeup](https://github.com/Kaiziron/lactf2023-writeup) by Kaiziron
 
 * [N1CTF 2022]()
   * [N1CTF 2022 Solana Challenges Writeups](https://lkmidas.github.io/posts/20221128-n1ctf2022-writeups/)
