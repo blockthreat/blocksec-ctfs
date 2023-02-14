@@ -347,3 +347,16 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
 
 * ZeroNights ICO Hacking Contest - 2017
   * [ZeroNights ICO Hacking Contest Writeup](https://blog.positive.com/zeronights-ico-hacking-contest-writeup-63afb996f1e3) by Arseny Reutov
+
+* [**QuillCTF**](https://bit.ly/QuillCTF)
+    * [Road Closed](https://quillctf.super.site/challenges/quillctf-challenges/road-closed)
+    * [Confidential Hash](https://quillctf.super.site/challenges/quillctf-challenges/ctf02)
+    * [VIP Bank](https://quillctf.super.site/challenges/quillctf-challenges/vip-bank)
+    * [safeNFT](https://quillctf.super.site/challenges/quillctf-challenges/bulletproof-nft)
+    * [D31eg4t3](https://quillctf.super.site/challenges/quillctf-challenges/d31eg4t3)  
+    * [Collatz Puzzle](https://quillctf.super.site/challenges/quillctf-challenges/collatz-puzzle)  
+    * [True XOR](https://quillctf.super.site/challenges/quillctf-challenges/true-xor)
+    * [Pelusa](https://quillctf.super.site/challenges/quillctf-challenges/pelusa)
+    * [WETH 10](https://quillctf.super.site/challenges/quillctf-challenges/weth-10)
+    * [Gate](https://quillctf.super.site/challenges/quillctf-challenges/gate)
+    * [Panda Token](https://quillctf.super.site/challenges/quillctf-challenges/panda-token)
