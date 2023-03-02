@@ -304,6 +304,8 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
   * [ThirtyFive](https://ciphershastra.com/ThirtyFive.html)
   * [Maya](https://ciphershastra.com/Maya.html)
   * [Gambler](https://ciphershastra.com/Gambler.html)
+  * [KingSlayer](https://ciphershastra.com/KingSlayer.html)
+  * [Free4All](https://ciphershastra.com/free4all.html)
 
 * [Donjon CTF](https://donjon-ctf.io/) - 2020
   * [CTF 2020: Capture the Fortress](https://donjon.ledger.com/Capture-the-Fortress/)
