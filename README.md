@@ -113,6 +113,7 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
 
 * [EKO2022 Enter the metaverse CTF](https://www.ctfprotocol.com/tracks/eko2022)
   * [EKO2022 Enter the metaverse CTF Challenge 1 — Phoenixtto](https://stermi.medium.com/eko2022-enter-the-metaverse-ctf-challenge-1-phoenixtto-21373b3ec60) by StErMi
+  * [EKO2022 Enter the metaverse CTF Challenge 2 — Metaverse Supermarket](https://stermi.medium.com/eko2022-enter-the-metaverse-ctf-challenge-2-metaverse-supermarket-33a2065f9f0b) by StErMi.
 
 * [HappyNewYearCTF](https://twitter.com/0x796/status/1610620331387158531) by Convergence Boy
   * [Making of HappyNewYear CTF Puzzle](https://mirror.xyz/vicnaum.eth/reNCgNs7e0rDNx7h8Yt0a9xbS7wFss4950Dl8tYr2kY) by Convergence Boy
