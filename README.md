@@ -108,6 +108,9 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
 
 * [Gacha Lab](https://gachalab.inspex.co/)
   * [How Hackers Can Become “Lucky” in NFT Minting](https://inspexco.medium.com/how-hackers-can-become-lucky-in-nft-minting-822f48d4b917)
+  
+* [Curta CTF](https://www.curta.wtf/)
+  * [Curta CTF Sudoku solution using Halmos](https://twitter.com/0xkarmacoma/status/1632551527729758208) by karma.
 
 ## Challenges and Writeups
 
