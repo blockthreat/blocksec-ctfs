@@ -79,6 +79,12 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
   * [Damn Vulnerable DeFi V2 - #12 Climber](https://ventral.digital/posts/2022/6/29/damn-vulnerable-defi-v2-12-climber) by patrickd
   * [Damn Vulnerable DeFi V2 - #13 Junior Miners](https://ventral.digital/posts/2022/7/2/damn-vulnerable-defi-v2-13-junior-miners) by patrickd
 
+* [Numen CTF 2023](https://github.com/numencyber/NumenCTF_2023)
+  * [Numen Cyber CTF Writeups](https://github.com/minaminao/ctf-blockchain/blob/main/src/NumenCTF/README.md)
+  * [2023 NUMEN CTF Writeup - GOATFinance](https://defihacklabs.substack.com/p/2023-numen-ctf-writeup-goatfinance) by SunWeb3Sec
+  * [2023 NUMEN CTF Writeup - Asslot, Counter, Exist, LenderPool, Wallet](https://defihacklabs.substack.com/p/2023-numen-ctf-writeup-asslot-counter) by SunWeb3Sec
+  * [2023 NUMEN CTF Writeup - HEXP](https://defihacklabs.substack.com/p/2023-numen-ctf-writeup-hexp) by SunWeb3Sec
+
 
 * [Boutiful](https://blog.fe-lang.org/posts/bountiful-round-2/)
 
