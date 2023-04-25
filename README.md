@@ -78,6 +78,7 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
   * [Damn Vulnerable DeFi V2 - #11 Backdoor](https://ventral.digital/posts/2022/6/28/damn-vulnerable-defi-v2-11-backdoor) by patrickd
   * [Damn Vulnerable DeFi V2 - #12 Climber](https://ventral.digital/posts/2022/6/29/damn-vulnerable-defi-v2-12-climber) by patrickd
   * [Damn Vulnerable DeFi V2 - #13 Junior Miners](https://ventral.digital/posts/2022/7/2/damn-vulnerable-defi-v2-13-junior-miners) by patrickd
+  * [Damn Vulnerable DeFi V2 - #15 ABI Smuggling](https://www.pranavgarg.xyz/posts/damn-vuln-defi/abi-smuggling/) by Pranav Garg
 
 * [Numen CTF 2023](https://github.com/numencyber/NumenCTF_2023)
   * [Numen Cyber CTF Writeups](https://github.com/minaminao/ctf-blockchain/blob/main/src/NumenCTF/README.md)
