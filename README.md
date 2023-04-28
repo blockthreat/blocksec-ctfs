@@ -89,6 +89,7 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
   * [2023 NUMEN CTF Writeup - Asslot, Counter, Exist, LenderPool, Wallet](https://defihacklabs.substack.com/p/2023-numen-ctf-writeup-asslot-counter) by SunWeb3Sec
   * [2023 NUMEN CTF Writeup - HEXP](https://defihacklabs.substack.com/p/2023-numen-ctf-writeup-hexp) by SunWeb3Sec
 
+* [Security Challenges Factory for Starknet](https://starknet-challenges.vercel.app/)
 
 * [Boutiful](https://blog.fe-lang.org/posts/bountiful-round-2/)
 
