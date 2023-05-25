@@ -126,6 +126,15 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
 
 ## Challenges and Writeups
 
+* [Code is Law 2](https://github.com/orenyomtov/code-is-law-2) by Oren Yomtov.
+
+* [Dragonfly CTF](https://ctf.dragonfly.xyz/)
+  * [Dragonfly CTF Solutions](https://twitter.com/merklejerk/status/1658510438512852999)
+
+* [Trust Chain CTF](https://trustchain.medium.com/practice-smart-contract-hacking-right-now-ba3a8c6c537c)
+
+* [Huff Puzzles](https://github.com/RareSkills/huff-puzzles) by RareSkills.
+
 * [EKO2022 Enter the metaverse CTF](https://www.ctfprotocol.com/tracks/eko2022)
   * [EKO2022 Enter the metaverse CTF Challenge 1 — Phoenixtto](https://stermi.medium.com/eko2022-enter-the-metaverse-ctf-challenge-1-phoenixtto-21373b3ec60) by StErMi
   * [EKO2022 Enter the metaverse CTF Challenge 2 — Metaverse Supermarket](https://stermi.medium.com/eko2022-enter-the-metaverse-ctf-challenge-2-metaverse-supermarket-33a2065f9f0b) by StErMi.
