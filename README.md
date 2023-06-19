@@ -127,6 +127,7 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
 
 ## Challenges and Writeups
 
+
 * [Whitenoise CTF](https://ctf.whitenoise.rs/)
   * [Doves in the wind solution](https://github.com/orenyomtov/doves-in-the-wind-ctf-solution) by Oren Yomtov.
 
@@ -134,6 +135,7 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
 
 * [Dragonfly CTF](https://ctf.dragonfly.xyz/)
   * [Dragonfly CTF Solutions](https://twitter.com/merklejerk/status/1658510438512852999)
+  * [PuzzleBox CTF](https://github.com/smitrajput/dragonfly-puzzlebox-ctf) by smitrajput
 
 * [Trust Chain CTF](https://trustchain.medium.com/practice-smart-contract-hacking-right-now-ba3a8c6c537c)
 
@@ -259,6 +261,9 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
 * [Solidity Riddles by RareSkills](https://github.com/RareSkills/solidity-riddles)
 
 ## CTFs and Writeups
+
+* [GPN CTF 2023](https://ctf.kitctf.de/)
+  * [GPN CTF 2023 writeup](https://github.com/Kaiziron/gpnctf2023-writeup/blob/main/gambling.md) by Kaiziron
 
 * [SEETF](https://seetf.sg/seetf/about)
   * [SEETF 2023 Writeup](https://github.com/minaminao/ctf-blockchain/blob/main/src/SEETF2023/README.md) by minaminao
