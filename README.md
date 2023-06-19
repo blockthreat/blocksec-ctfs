@@ -260,6 +260,10 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
 
 ## CTFs and Writeups
 
+* [SEETF](https://seetf.sg/seetf/about)
+  * [SEETF 2023 Writeup](https://github.com/minaminao/ctf-blockchain/blob/main/src/SEETF2023/README.md) by minaminao
+  * [SEETF 2022 Write List](https://docs.google.com/spreadsheets/d/12a7onACZZQLCvL7AdhBUUDV2OOo0AEXhlsNNXVWrSJ4/edit#gid=0)
+
 * [LA CTF 2023](https://lactf.uclaacm.com/)
   * [LA CTF 2023 Writeup](https://github.com/Kaiziron/lactf2023-writeup) by Kaiziron
 
