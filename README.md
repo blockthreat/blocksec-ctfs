@@ -125,7 +125,7 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
   * [Curta CTF Sudoku solution using Halmos](https://twitter.com/0xkarmacoma/status/1632551527729758208) by karma.
   * [Puzzle #3](https://twitter.com/0x796/status/1637905603682271232) by Convergence Boy.
  
-  * [Decently Safe DeFi](https://decentlysafedefi.xyz/me/)
+* [Decently Safe DeFi](https://decentlysafedefi.xyz/me/)
 
 ## Challenges and Writeups
 
