@@ -137,6 +137,8 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
 * [Whitenoise CTF](https://ctf.whitenoise.rs/)
   * [Doves in the wind solution](https://github.com/orenyomtov/doves-in-the-wind-ctf-solution) by Oren Yomtov.
 
+* [Code is Law 1](https://github.com/orenyomtov/code-is-law-1) by Oren Yomtov.
+
 * [Code is Law 2](https://github.com/orenyomtov/code-is-law-2) by Oren Yomtov.
 
 * [Dragonfly CTF](https://ctf.dragonfly.xyz/)
