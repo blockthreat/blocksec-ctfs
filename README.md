@@ -134,6 +134,8 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
 
 ## Challenges and Writeups
 
+* [Project SEKAI CTF 2023]
+  * [Project SEKAI CTF 2023 Re-Remix Writeup](https://github.com/minaminao/ctf-blockchain/tree/main/src/ProjectSekaiCTF2023) by minaminao.
 
 * [Whitenoise CTF](https://ctf.whitenoise.rs/)
   * [Doves in the wind solution](https://github.com/orenyomtov/doves-in-the-wind-ctf-solution) by Oren Yomtov.
