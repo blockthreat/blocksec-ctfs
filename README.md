@@ -131,6 +131,8 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
 
 * MEV-Share CTF 2023
   * [MEV-Share CTF Writeups](https://github.com/minaminao/ctf-blockchain/tree/main/src/MEVShareCTF) by minaminao
+ 
+* [Only Pwner](https://onlypwner.xyz/)
 
 ## Challenges and Writeups
 
