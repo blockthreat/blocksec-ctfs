@@ -56,6 +56,7 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
   * [Ethernaut x Foundry - 0x0 Hello Ethernaut](https://blog.0xeval.me/ethernaut-x-foundry-0x0-hello-ethernaut) by 0xeval
 
 * [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz/)
+  * [Damn Vulnerable DeFi - Foundry](https://github.com/alexbabits/damn-vulnerable-defi-ctfs) by alexbabits
   * [Damn Vulnerable DeFi - Foundry edition](https://github.com/nicolasgarcia214/damn-vulnerable-defi-foundry) by nicolasgarcia214
   * [Damn Vulnerable DeFi - Foundry edition Challenge Solutions #1 to #12 on Medium.com](https://stermi.medium.com/damn-vulnerable-defi-challenge-1-unstoppable-92bacdefafcc) by StErMi
   * [DamnVulneraDeFi Solutions using Ape and Vyper](https://github.com/0xJCN/Damn-Vulnerable-DeFi-V3-CTF) by 0xJCN
