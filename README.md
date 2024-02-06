@@ -85,6 +85,8 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
   * [Damn Vulnerable DeFi V2 - #15 ABI Smuggling](https://www.pranavgarg.xyz/posts/damn-vuln-defi/abi-smuggling/) by Pranav Garg
   * [Damn Vulnerable DeFi V3 Solutions](https://www.youtube.com/@BlueAlderETH) by Blue Addler
 
+* [OnlyPwner](https://onlypwner.xyz/)
+
 * [Numen CTF 2023](https://github.com/numencyber/NumenCTF_2023)
   * [Numen Cyber CTF Writeups](https://github.com/minaminao/ctf-blockchain/blob/main/src/NumenCTF/README.md)
   * [2023 NUMEN CTF Writeup - GOATFinance](https://defihacklabs.substack.com/p/2023-numen-ctf-writeup-goatfinance) by SunWeb3Sec
