@@ -136,6 +136,7 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
   * [MEV-Share CTF Writeups](https://github.com/minaminao/ctf-blockchain/tree/main/src/MEVShareCTF) by minaminao
  
 * [Only Pwner](https://onlypwner.xyz/)
+* [Web3Pwn](https://www.web3pwn.com)
 
 ## Challenges and Writeups
 
