@@ -281,6 +281,10 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
 
 ## CTFs and Writeups
 
+* [Oak Security's CosmWasm CTF](https://github.com/oak-security/cosmwasm-ctf) - AwesomWasm 2023
+  * [Capture The Flag ️Writeups — part 1](https://medium.com/oak-security/capture-the-flag-%EF%B8%8Fwriteups-awesomwasm-2023-pt-1-a40c6e506b49)
+  * [Capture The Flag ️Writeups — part 2](https://medium.com/oak-security/capture-the-flag-%EF%B8%8Fwriteups-awesomwasm-2023-pt-2-cb3e9b297c0)
+
 * [GPN CTF 2023](https://ctf.kitctf.de/)
   * [GPN CTF 2023 writeup](https://github.com/Kaiziron/gpnctf2023-writeup/blob/main/gambling.md) by Kaiziron
 
