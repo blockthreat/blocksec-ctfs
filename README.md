@@ -250,6 +250,7 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
 * [Pinball Challenge](https://rinkeby.etherscan.io/address/0xffb9205c84d0b209c215212a3cdfc50bf1cfb0e0#code) by samczsun
   * [Solution](https://twitter.com/karmacoma_eth/status/1451625194380939270) by KarmaComa
   * [Solution](https://twitter.com/adietrichs/status/1452040913140822020?s=20) by adietrichs
+  * [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source (GPL-3.0) autonomous AI penetration testing platform covering web, API, Active Directory and Kubernetes, with proof of exploitation and a local privacy gateway.
   * [Solution](https://medium.com/@kanewallmann_71759/an-untrustworthy-pinball-machine-d9dcd07882c) by Kane Wallmann
 
 
