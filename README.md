@@ -3,6 +3,8 @@ A curated list of blockchain security Wargames, Challenges, and Capture the Flag
 
 ## Wargames and Writeups
 
+* [SCH CTF Arena](https://smartcontractshacking.com/tools/web3-ctf-challenges) - Free browser-based Solidity security exercises with test feedback.
+
 * [Ethernaut](https://ethernaut.openzeppelin.com/)
   * [Ethernaut CTF Solution](https://github.com/0xIchigo/Ethernaut) by 0xIchigo
   * [Ethernaut-CTF Solutions using Ape and Vyper](https://github.com/0xJCN/Ethernaut-CTF) by 0xJCN
